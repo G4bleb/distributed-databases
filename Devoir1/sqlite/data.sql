@@ -1,0 +1,1 @@
+/home/gableb/bddreparties/Devoir1/jsonToSQL/data.sql
