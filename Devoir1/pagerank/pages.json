@@ -1,0 +1,39 @@
+[
+    {
+        "_id": "A",
+        "value": {
+            "pageRank": 1,
+            "adjlist": [
+                "B",
+                "C"
+            ]
+        }
+    },
+    {
+        "_id": "B",
+        "value": {
+            "pageRank": 1,
+            "adjlist": [
+                "C"
+            ]
+        }
+    },
+    {
+        "_id": "C",
+        "value": {
+            "pageRank": 1,
+            "adjlist": [
+                "A"
+            ]
+        }
+    },
+    {
+        "_id": "D",
+        "value": {
+            "pageRank": 1,
+            "adjlist": [
+                "C"
+            ]
+        }
+    }
+]
