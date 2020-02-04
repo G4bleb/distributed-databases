@@ -1,1 +1,1 @@
-mongoimport --db=Devoir1 --collection=spells --file=/home/gableb/bddreparties/Devoir1/crawler/data.json --jsonArray
+mongoimport --db=Devoir1-spells --collection=spells --file=/home/gableb/bddreparties/Devoir1/crawler/data.json --jsonArray
