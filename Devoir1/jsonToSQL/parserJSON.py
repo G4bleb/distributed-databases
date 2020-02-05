@@ -26,10 +26,8 @@ for d in data:
     try:
         for component in d["components"]:
             insert_comp_spellcomp(component)
-
-    except:
-        component = d["components"]
-        insert_comp_spellcomp(component)
+    except TypeError:
+        continue
         
 
     def insert_classlevel_spellclasslevel(level,value):
