@@ -4,10 +4,14 @@ import time
 
 class CreatureSpider(scrapy.Spider):
     name = "creature_spider"
-    start_urls = ['http://legacy.aonprd.com/bestiary/monsterIndex.html']
+    start_urls = ['http://legacy.aonprd.com/bestiary/monsterIndex.html',
+                  'http://legacy.aonprd.com/bestiary2/additionalMonsterIndex.html',
+                  'http://legacy.aonprd.com/bestiary3/monsterIndex.html',
+                  'http://legacy.aonprd.com/bestiary4/monsterIndex.html',
+                  'http://legacy.aonprd.com/bestiary5/index.html',]
     def __init__(self, name=None, **kwargs):
         super().__init__(name=name, **kwargs)
-        self.download_delay = 1
+        self.download_delay = 0.5
         
     def parse(self, response):
         PAGE_URL_SELECTOR = '.index > ul > li > a ::attr(href)'
@@ -23,7 +27,7 @@ class CreatureSpider(scrapy.Spider):
         print("PARSING : "+response.url)
         # creature = {}
 
-        NAME_SELECTOR = '.flavor-text+.stat-block-title'
+        NAME_SELECTOR = '.body .stat-block-title'
         creaturesStatBlockTitles = response.css(NAME_SELECTOR).getall()
         print(creaturesStatBlockTitles)
 
@@ -35,6 +39,8 @@ class CreatureSpider(scrapy.Spider):
                 yield {'name': getCreatureNameFromStatBlockTitle(sbt), 'spells': spells[i]}
             except IndexError:
                 yield {'name': getCreatureNameFromStatBlockTitle(sbt), 'spells': []}
+            except AssertionError:
+                pass
             # yield(creature)
             # creatures.append(
             #     {'name': getCreatureNameFromStatBlockTitle(sbt), 'spells': spells[i]})
@@ -52,11 +58,19 @@ class CreatureSpider(scrapy.Spider):
         #        'spell_resistance')}
         
 def getCreatureNameFromStatBlockTitle(statblocktitle):
-    p = re.compile('<b>([^<]+)')
-    name = p.search(statblocktitle).group(1).strip()
+    # p = re.compile('<b>([^<]+)')
+    # p = re.compile('>([^<]+).*?<span')
+    p = re.compile('>([^0-9<>]+?)<')
+    try:
+        name = p.search(statblocktitle).group(1).strip()
+    except AttributeError:
+        print('ERROR COULD NOT FIND CREATURE NAME IN ' + statblocktitle)
+        raise AssertionError 
     print(name)
     return name
     
+def removeEm(myStr):
+    return re.sub('<\/?em>', '', myStr)
 
 def parseContent(response):
     cutContent = re.split('class="stat-block-title"><b>[^<]+', response)
@@ -68,6 +82,7 @@ def parseContent(response):
         res = p.findall(oneContent)
         
         if res:
+            res = list(map(removeEm, res))
             res = list(dict.fromkeys(res))
             print(res)
             ret.append(res)
