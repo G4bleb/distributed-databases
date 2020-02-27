@@ -19,13 +19,11 @@ class CreatureSpider(scrapy.Spider):
             yield scrapy.Request(  # yield
                 response.urljoin(page.get()),
                 # response.urljoin('http://legacy.aonprd.com/bestiary/angel.html#angel-solar'),
-                # response.urljoin('http://legacy.aonprd.com/bestiary/bat.html'),
                 callback=self.parsePage
             )
 
     def parsePage(self, response):
         print("PARSING : "+response.url)
-        # creature = {}
 
         NAME_SELECTOR = '.body .stat-block-title'
         creaturesStatBlockTitles = response.css(NAME_SELECTOR).getall()
@@ -41,21 +39,6 @@ class CreatureSpider(scrapy.Spider):
                 yield {'name': getCreatureNameFromStatBlockTitle(sbt), 'spells': []}
             except AssertionError:
                 pass
-            # yield(creature)
-            # creatures.append(
-            #     {'name': getCreatureNameFromStatBlockTitle(sbt), 'spells': spells[i]})
-            # yield(creatures[i])
-        # print(creatures)
-        
-        # yield {k: spell.get(k, None) for k in (
-        # 'name',
-        #  'school',
-        #   'level',
-        #    'casting_time',
-        #     'components',
-        #      'target/effect/area',
-        #       'duration',
-        #        'spell_resistance')}
         
 def getCreatureNameFromStatBlockTitle(statblocktitle):
     # p = re.compile('<b>([^<]+)')
@@ -78,7 +61,6 @@ def parseContent(response):
     p = re.compile('href=".+?\/spells\/.+?">(.+?)<\/a>')
     ret = []
     for oneContent in cutContent:
-        # print(oneContent)
         res = p.findall(oneContent)
         
         if res:
@@ -87,13 +69,3 @@ def parseContent(response):
             print(res)
             ret.append(res)
     return ret
-        
-    
-#Prend une string de détails de niveaux d'un sort, renvoie un tableau associatif classe => niveau
-def parseDescription(desc):
-    # content_pattern = re.compile('>[^><]+<')
-    # details = content_pattern.findall(desc)
-    details = desc.split(",")
-    details = [d.strip() for d in details]
-    details = [d.replace(';', '') for d in details]
-    return details
