@@ -1,6 +1,5 @@
 import scrapy
 import re
-import time
 
 class CreatureSpider(scrapy.Spider):
     name = "creature_spider"
