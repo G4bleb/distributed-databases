@@ -1,4 +1,5 @@
 import org.apache.spark.rdd.RDD
+import org.apache.spark.sql.types.{ArrayType, StringType, StructField, StructType}
 import org.apache.spark.sql.{Row, SparkSession}
 import org.apache.spark.{SparkConf, SparkContext, rdd}
 
@@ -50,4 +51,6 @@ reduced.take(5).foreach(printSpellCreatures)
 
 val serialized = reduced.map(x => (x._1, x._2.mkString("; ")))
 serialized.take(5).foreach(println)
-serialized.saveAsTextFile("/home/gableb/bddreparties/Devoir2/Exercice1/output")
+serialized.saveAsTextFile("/home/gableb/bddreparties/Devoir2/Exercice1/output_rdd")
+
+spark.createDataFrame(reduced).toDF("spell", "creatures").write.format("json").save("/home/gableb/bddreparties/Devoir2/Exercice1/output_json");

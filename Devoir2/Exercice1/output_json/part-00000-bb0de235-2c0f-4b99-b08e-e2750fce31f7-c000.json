@@ -1,0 +1,943 @@
+{"spell":"greater magic fang","creatures":["Cat Lord"]}
+{"spell":"shout","creatures":["Cliff Giant","Pleroma","Nue","Forest Dragon","Ostiarius","Vouivre","Siren","Soulbound Shell","Jinmenju"]}
+{"spell":"banishment","creatures":["Ghaele","Trumpet Archon","Cernunnos","Pleroma","Planetar","Solar","Young Silver Dragon","Simurgh","Devourer","Catrina"]}
+{"spell":"stone tell","creatures":["Shaitan","Korred","Seilenos","Jinushigami","Fire Giant","Pech","Catrina","Brijidine","Lampad"]}
+{"spell":"greater shadow evocation","creatures":["Shen","Dandasuka"]}
+{"spell":"dread bolt","creatures":["Mummy Lord"]}
+{"spell":"word of recall","creatures":["Solar","Crypt Thing","Iathavos","Guardian Dragon","Balisse"]}
+{"spell":"entropic shield","creatures":["Solar","Lunar Dragon","Sceaduinar"]}
+{"spell":"cognitive block ","creatures":["Manu","Psychemental","Astral Dragon"]}
+{"spell":"chill metal","creatures":["Cernunnos","Taxidermic Grizzly Bear","Fungal Nymph","Winter Hag","Cold Rider","Mephit","Forlarren","Astral Dragon","Qallupilluk"]}
+{"spell":"explosive runes","creatures":["Gancanagh"]}
+{"spell":"Control water","creatures":["Forest Dragon"]}
+{"spell":"primal regression","creatures":["Anunnaki"]}
+{"spell":"crushing despair","creatures":["Griefgall","Bogeyman","Broken Soul Lillend","Abrikandilu","Crone queen","Coloxus","Esipil","Seilenos","Vilderavn","Tiyanak","Dagon","Leanan Sidhe","Ostiarius","Devourer","Sangoi","Astral Dragon","Barghest","Apostate Devil (Deimavigga)","Greater Barghest"]}
+{"spell":"virtue","creatures":["Ghaele","Trumpet Archon","Planetar","Solar","Fungal Nymph","Young Silver Dragon"]}
+{"spell":"magic stone","creatures":["Fungus Leshy","Oread","Lampad","Tanuki"]}
+{"spell":"sundering shards","creatures":["Astral Dragon"]}
+{"spell":"continual flame","creatures":["Ghaele","Phoenix","Trumpet Archon","Planetar","Solar","Harbinger Archon","Lantern Archon","Shadow Mastiff","Lunar Dragon","Astral Deva","Balisse","Hound Archon"]}
+{"spell":"move earth","creatures":["Clay Golem","Cernunnos","Adult Bronze Dragon","Air Elemental","Adult White Dragon","Xorn","Tunche","Erlking","Forest Dragon","Glaistig","Julunggali","Ice Elemental","Brijidine","Annihilator"]}
+{"spell":"dispel magic, greater","creatures":["Adhukait"]}
+{"spell":"liberating command","creatures":["Muse"]}
+{"spell":"silence","creatures":["Rokurokubi","Drow Noble","Vrolikai","Couatl","Young Gold Dragon","Nabasu","Ankou","Ostiarius","Sceaduinar","Contract Devil"]}
+{"spell":"bull's strength","creatures":["Androsphinx","Mummy Lord","Trumpet Archon","Cernunnos","Solar","Ice Golem","Gorgon","Clockwork Dragon","Guardian Scroll","Maenad","Tophet"]}
+{"spell":"gust of wind","creatures":["Young White Dragon","Dwiergeth","White Dragon","Brine Dragon","Roiling Oil","Air Veela","Ved","Ancient Blue Dragon","Crystal Golem","Young Bronze Dragon","Flying Polyp","Bronze Dragon","Storm Hag","Ancient Red Dragon","Adult White Dragon","Kirin","Bralani","Stormghost","Mobogo","Clockwork Dragon","Forest Dragon","Mephit","Forlarren","Saxra","Blightspawn","Chuspiki","Ketesthius"]}
+{"spell":"Dispel magic","creatures":["Lukwata"]}
+{"spell":"Detect evil","creatures":["Forest Dragon","Half-Celestial Unicorn"]}
+{"spell":"remove disease","creatures":["Plague Swarm","Vegepygmy","Shedu","Cassisian","Vargouille","Hellwasp Swarm","Cernunnos","Alpluachra","Gryph","Planetar","Solar","Bagiennik","Fastachee","Jinushigami","Moon Dog","Wererat (Human Form)","Lunarma","Astral Deva","Balisse","Spider Eater","Gray Goo","Leaf Ray","Xill","Thriae Queen"]}
+{"spell":"stone to flesh","creatures":["Stone Golem","Brine Dragon","Bone Golem","Caryatid Column","Pech"]}
+{"spell":"magic weapon","creatures":["Lukwata","Maftet","Drowning Devil (Sarglagon)","Disenchanter"]}
+{"spell":"leashed shackles","creatures":["Guardian Dragon","Shadow Collector"]}
+{"spell":"command plants","creatures":["Zomok","Ancient Blue Dragon","Fungal Nymph","Fastachee"]}
+{"spell":"flare","creatures":["Young Silver Dragon","Spriggan","Lunar Dragon","LUNAR NAGA","Forest Dragon","Ifrit","Faerie Dragon","Lurker in Light","Silver Dragon"]}
+{"spell":"holy smite","creatures":["Exscinder","Cassisian","Pleroma","Planetar","Solar","Astral Deva","Balisse","Drowning Devil (Sarglagon)"]}
+{"spell":"mass bear's endurance","creatures":["Fastachee","Egregore"]}
+{"spell":"holy aura","creatures":["Ghaele","Cassisian","Pleroma","Solar","Astral Deva","Balisse","Brijidine"]}
+{"spell":"remove fear","creatures":["Androsphinx","Cassisian","Planetar","Solar","Kirin","Emotion Ooze","Astral Deva","Balisse"]}
+{"spell":"resurrection","creatures":["Intellect Devourer","Phoenix","Swamp Mummy","Flesh Golem","Solar","Bone Golem","Iathavos","Nemhain","Shabti","Baykok","Young Gold Dragon","Balisse","Mummy","Cephalophore","Demilich","Soul Eater"]}
+{"spell":"demand offering","creatures":["Vishap"]}
+{"spell":"geas/quest","creatures":["Lhaksharut","Cernunnos","Wood Golem","Living Wall","Clockwork Goliath","Adult Copper Dragon","Iron Golem","Zelekhut","Bone Golem","Guardian Dragon","Scarecrow","Terra-cotta Soldier","Necrophidius","Young Gold Dragon","Ice Golem","Iron Cobra","Adamantine Golem","Clockwork Dragon","Cephalophore","Stone Golem","Devourer","Blood Golem","Taotieh","Aghash","Norn","Tupilaq","Valkyrie"]}
+{"spell":"summon nature's ally VII","creatures":["Cliff Giant","Barometz"]}
+{"spell":"detect snares and pits","creatures":["Planetar","Solar","Huldra","Balisse"]}
+{"spell":"unholy blight","creatures":["Gug","Brine Dragon","Pleroma","Baregara","Esipil","Glabrezu","Dagon","Half-Fiend Minotaur","Wyrmwraith","Drowning Devil (Sarglagon)","Saxra","Erinyes","Apostate Devil (Deimavigga)","Barbed Devil (Hamatula)","Devilbound Sorcerer","Hezrou"]}
+{"spell":"ray of sickening","creatures":["Shadow Roper"]}
+{"spell":"greater forbid action","creatures":["Apkallu"]}
+{"spell":"daze monster","creatures":["Intellect Devourer","Dark Slayer","Thought Eater","Grioth","Encantado","Huldra","Aatheriexa","Necrophidius","Clockwork Dragon","Forest Dragon","Cephalophore","Caulborn"]}
+{"spell":"phantom steed","creatures":["Graveknight","Cold Rider"]}
+{"spell":"greater create mindscape","creatures":["Zygomind","Apkallu","Manu","Vishap"]}
+{"spell":"silent image","creatures":["Shen","Gancanagh","Rakshasa","Brine Dragon","Wayang","Hobkins","Aranea","Adult Green Dragon","Copper Dragon","Dark Naga","Brain Mole","Young Copper Dragon","Ancient Bronze Dragon","Cloaker","Faerie Dragon","Koto-furunishi","Blood Golem","Soulsliver","Grimple","Crysmal","Astral Dragon","Drider","Formian Myrmarch","Young Green Dragon"]}
+{"spell":"Anticipate peril","creatures":["Lunar Dragon"]}
+{"spell":"summon monster I","creatures":["Astomoi","Adult Green Dragon","Shabti","Clockwork Dragon","Young Green Dragon"]}
+{"spell":"teleport object","creatures":["Fire Yai","Young Copper Dragon"]}
+{"spell":"antilife shell","creatures":["Cernunnos","Nemhain","Sceaduinar","Drakainia"]}
+{"spell":"warp wood","creatures":["Cythnigot","Taxidermic Grizzly Bear","Tunche","WickerMan","Forlarren"]}
+{"spell":"scrying","creatures":["Adult Green Dragon","Pleroma","Adhukait","Lunar Dragon","Mandragora","Xacarba","Dandasuka","Manitou","Sceaduinar","Catrina","Caulborn"]}
+{"spell":"disrupting weapon","creatures":["Shield Archon","Jyoti"]}
+{"spell":"nightmare","creatures":["Bogeyman","Rokurokubi","Bokrug","Blood Hag","Nue","Wendigo","Star-Spawn of Cthulhu","Animate Dream","Lunar Dragon","Mothman","Baku","Nightmare Ettercap","Immortal Ichor","Witchfire"]}
+{"spell":"unseen servant","creatures":["Shen","Brine Dragon","Neh-Thalggu","Adult Blue Dragon","Soulbound Shell","Witchwyrd"]}
+{"spell":"secret chest","creatures":["Bone Golem","Mercane"]}
+{"spell":"false vision","creatures":["Guardian Dragon","Mothman","Drowning Devil (Sarglagon)"]}
+{"spell":"eagle's splendor","creatures":["Brine Dragon","Muse","Planetar","Solar","Couatl"]}
+{"spell":"hallow","creatures":["Gearghost","Human Skeleton","Demilich"]}
+{"spell":"keen edge","creatures":["Rokurokubi","Fire Yai","Terra-cotta Soldier","Adamantine Golem","Blood Golem","Tupilaq"]}
+{"spell":"greater shout","creatures":["Humbaba","Tempest Behemoth","Fire Yai"]}
+{"spell":"fumbletongue","creatures":["Liminal Sprite"]}
+{"spell":"grave words","creatures":["Astomoi","Astral Dragon"]}
+{"spell":"barkskin","creatures":["Udaeus","Fastachee","Nymph"]}
+{"spell":"ventriloquism","creatures":["Gancanagh","Serpentfolk","Young Blue Dragon","Wayang","Lamia Matriarch","Adult Green Dragon","Ancient Black Dragon","Brass Dragon","Witchcrow","Leprechaun","Popobala","Tunche","Dandasuka","Brownie","Koto-furunishi","Tikbalang","Adult Blue Dragon","Grimple","Lorelei","Apostate Devil (Deimavigga)","Lamia","Young Brass Dragon","Young Green Dragon"]}
+{"spell":"summon nature's ally IV","creatures":["Juggernaut","Flytrap Leshy","Ijiraq","Nymph"]}
+{"spell":"confess","creatures":["Catrina"]}
+{"spell":"mass cure light wounds","creatures":["Trumpet Archon","Apkallu"]}
+{"spell":"control plants","creatures":["Cernunnos","Jinushigami","Lunar Dragon","Tunche"]}
+{"spell":"shield","creatures":["Young White Dragon","Garuda","White Dragon","Shield Archon","Rakshasa","Young Blue Dragon","Brine Dragon","Worm that Walks","Adult Red Dragon","Adult Green Dragon","Red Wyrm Ravener","Young Bronze Dragon","Brass Dragon","Pixie","Copper Dragon","Young Red Dragon","Young Silver Dragon","Lich","Bronze Dragon","Dark Naga","Red Dragon","Lunar Dragon","Einherji","LUNAR NAGA","Young Copper Dragon","Shulsaga","Young Gold Dragon","Clockwork Dragon","Forest Dragon","Neh-Thalggu","Ostiarius","Clay Golem","Adult Blue Dragon","Ancient Copper Dragon","Silver Dragon","Gold Dragon","Young Brass Dragon","Young Green Dragon"]}
+{"spell":"Arcane lock","creatures":["Divine Guardian Hydra"]}
+{"spell":"enlarge person","creatures":["Janni","Efreeti","Dagon","Duergar","Mephit"]}
+{"spell":"enervation","creatures":["Lhaksharut","Juggernaut","Brine Dragon","Bokrug","Vrolikai","Lich","Thanadaemon","Nabasu","Soulbound Mannequin","Forest Dragon","Sceaduinar","Adult Blue Dragon","Aghash","Astradaemon"]}
+{"spell":"dispel magic","creatures":["Young White Dragon","Shen","Theletos","Mummified Gynosphinx","Adult Black Dragon","Ghaele","Attic Whisperer","Seugathi","Piscodaemon","Shedu","Brine Dragon","Cassisian","Rokurokubi","Drow Noble","Cernunnos","Abrikandilu","Babau","Worm that Walks","Adult Red Dragon","Guardian Naga","Adult Green Dragon","Air Veela","Blood Hag","Young Bronze Dragon","Baregara","Planetar","Marut","Pixie","Cervinal","Copper Dragon","Leukodaemon","Young Red Dragon","Young Silver Dragon","Lich","Esipil","Bronze Dragon","Jinushigami","Glabrezu","Leng Spider","Lunar Dragon","Shaggy Demodand","Drow","Cetus","Aatheriexa","LUNAR NAGA","Young Copper Dragon","Young Gold Dragon","Small Air Elemental","Chernobue","Sphinx (Gynosphinx)","Astral Deva","Clockwork Dragon","Vampire","Balisse","Dandasuka","Sceaduinar","Drowning Devil (Sarglagon)","Saxra","Adult Blue Dragon","Catrina","Brain Ooze","Disenchanter","Aghash","Wysp","Silver Dragon","Ceustodaemon","Drider","Apostate Devil (Deimavigga)","Annihilator","Gold Dragon","Witchwyrd"]}
+{"spell":"mind thrust IV","creatures":["Nulmind","Manu"]}
+{"spell":"debilitating portent","creatures":["Astral Dragon"]}
+{"spell":"expeditious retreat","creatures":["Astomoi","Guardian Naga","Coloxus","Dark Naga","Brain Mole","LUNAR NAGA","Young Copper Dragon","Clockwork Dragon","Forest Dragon","Vampire","Catrina","Soulbound Shell"]}
+{"spell":"ironwood","creatures":["Barometz","Erlking"]}
+{"spell":"wind walk","creatures":["Brine Dragon","Bokrug","Adlet","Flying Polyp","Wendigo","Iathavos","Kirin","Bralani","Balisse","Djinni","Norn"]}
+{"spell":"teleport","creatures":["Serpentfolk","Brine Dragon","Worm that Walks","Adult Red Dragon","Xanthos","Adult Green Dragon","Pleroma","Young Bronze Dragon","Baregara","Crypt Thing","Harbinger Archon","Lich","Cerberi","Lunar Dragon","Young Copper Dragon","Young Gold Dragon","Forest Dragon","Neothelid","Catrina","Formian Myrmarch","Young Brass Dragon","Devilbound Sorcerer"]}
+{"spell":"know direction","creatures":["Cassisian","Cliff Giant","Xanthos"]}
+{"spell":"reincarnate","creatures":["Green Hag","Deep One","Turul","Seilenos","Dandasuka","Catrina","Danava","Lipika"]}
+{"spell":"speak with plants","creatures":["Broken Soul Lillend","Dryad","Fungal Nymph","Fastachee","Jinushigami","Tunche","Erlking","Lillend","Hamadryad","Kapre","Treant"]}
+{"spell":"illusory wall","creatures":["Aboleth"]}
+{"spell":"major creation","creatures":["Cernunnos","Pleroma","Leprechaun","Apkallu","Kirin","Lunar Dragon","Fire Yai","Dagon","Adamantine Golem","Djinni","Astral Dragon","Tanuki"]}
+{"spell":"contingency","creatures":["Adult Red Dragon"]}
+{"spell":"synapse overload","creatures":["Manu","Astral Dragon"]}
+{"spell":"Shatter","creatures":["Graven Guardian","Cold Rider","Adamantine Golem"]}
+{"spell":"mad monkeys","creatures":["Cernunnos"]}
+{"spell":"Unholy aura","creatures":["Half-Fiend Minotaur"]}
+{"spell":"chaos hammer","creatures":["Pleroma","Glabrezu","Shaggy Demodand","Chernobue","Devourer","Drowning Devil (Sarglagon)","Hundun","Hezrou"]}
+{"spell":"ego whip I","creatures":["Nulmind","Psychemental","Tulpa","Astral Dragon"]}
+{"spell":"mind probe","creatures":["Apkallu","Lotus Tree","Vishap","Psychemental","Tulpa"]}
+{"spell":"sunbeam","creatures":["Shining Child","Cernunnos","Bokrug","Shadow Demon"]}
+{"spell":"dominate person","creatures":["Shen","Griefgall","Serpentfolk","Abrikandilu","Adult Green Dragon","Red Wyrm Ravener","Ancient Blue Dragon","Nosferatu","Lich","Esipil","Chaneque","Popobala","Lunar Dragon","Fire Yai","Dagon","Kalavakus","Forest Dragon","Vampire","Succubus","Devourer","Sayona","Catrina","Brain Ooze","Mindslaver Mold","Accuser Devil (Zebub)","Soulbound Shell","Apostate Devil (Deimavigga)","Young Brass Dragon"]}
+{"spell":"share memory","creatures":["Hyakume","Rhu-chalik","Muse","Lunar Dragon","Jinmenju"]}
+{"spell":"feather fall","creatures":["Gancanagh","Dwiergeth","Brine Dragon","Drow Noble","Riftcreeper","Worm that Walks","Bokrug","Spring-Heeled Jack","Adult Gold Dragon","Adhukait","Young Silver Dragon","Harionago","Lunar Dragon","Drow","Aatheriexa","Soulbound Mannequin","Makara Vahana","Forest Dragon","Urdefhan","Astral Dragon","Chuspiki","Silver Dragon","Amphiptere","Devilbound Sorcerer","Sylph"]}
+{"spell":"acid arrow","creatures":["Rakshasa","Worm that Walks","Hydrodaemon","Scylla","LUNAR NAGA","Forest Dragon","Dandasuka","Neh-Thalggu","Mephit","Accuser Devil (Zebub)","Nyogoth","Devilbound Sorcerer"]}
+{"spell":"blistering invective","creatures":["Eclipse Giant"]}
+{"spell":"mass fly","creatures":["Brine Dragon"]}
+{"spell":"euphoric cloud","creatures":["Shen","Astral Dragon"]}
+{"spell":"create demiplane","creatures":["Elohim"]}
+{"spell":"open/close","creatures":["Brine Dragon","Rokurokubi","Ahkhat","Adult Red Dragon","Guardian Naga","Etiainen","Copper Dragon","Dark Naga","Grioth","LUNAR NAGA","Tooth Fairy","Young Copper Dragon","Soulbound Mannequin","Vampire","Augur","Dandasuka","Neh-Thalggu","Soulbound Doll","Faerie Dragon","Soulsliver","Grimple","Astral Dragon","Spirit Naga"]}
+{"spell":"sculpt simulacrum","creatures":["Winter Hag"]}
+{"spell":"charm monster","creatures":["Young White Dragon","Theletos","Green Hag","Ghaele","Juggernaut","Seaweed Siren","Alraune","Cassisian","Rokurokubi","Lamia Matriarch","Hyakume","Shoggti","Red Wyrm Ravener","Pixie","Scylla","Tyrant Jelly","Couatl","Myceloid","Harionago","Winter Hag","Elohim","Leng Spider","Lunar Dragon","Fire Yai","LUNAR NAGA","Ogre Mage","Forest Dragon","Xacarba","Dandasuka","Succubus","Rusalka","Lillend","Hamadryad","Neothelid","Brain Ooze","Immortal Ichor","Accuser Devil (Zebub)","Barghest","Aghash","Maenad","Formian Myrmarch","Thriae Queen","Lamia","Young Brass Dragon","Greater Barghest","Devilbound Sorcerer","Caulborn"]}
+{"spell":"telekinetic sphere","creatures":["Thulgant","Colour Out of Space"]}
+{"spell":"anticipate thoughts","creatures":["Gray","Manu","Vishap"]}
+{"spell":"Animate dead","creatures":["Adamantine Golem"]}
+{"spell":"alter self","creatures":["Gancanagh","Garuda","Green Hag","Rakshasa","Brine Dragon","Selkie","Lamia Matriarch","Annis Hag","Cernunnos","Adult Red Dragon","Aranea","Night Hag","Adult Green Dragon","Efreeti","Marid","Muse","Planetar","Brass Dragon","Solar","Coloxus","Scylla","Totenmaske","Adhukait","Berbalang","Encantado","Winter Hag","Vilderavn","Firbolg","Fire Yai","LUNAR NAGA","Tunche","Ogre Mage","Astral Deva","Clockwork Dragon","Xacarba","Balisse","Dandasuka","Succubus","Doppelganger","Neh-Thalggu","Kelpie","Tikbalang","Kitsune","Soulsliver","Gorynych","Accuser Devil (Zebub)","Faceless Stalker (Ugothol)","Apostate Devil (Deimavigga)","Norn","Young Brass Dragon","Titan, Elysian","Apallie","Young Green Dragon","Fey Giant Toad"]}
+{"spell":"dispel law","creatures":["Pleroma","Iathavos"]}
+{"spell":"Share memory","creatures":["Lunar Dragon"]}
+{"spell":"ectoplasmic snare","creatures":["Vishap"]}
+{"spell":"zone of silence","creatures":["Thriae Constructor","Apostate Devil (Deimavigga)"]}
+{"spell":"remote viewing","creatures":["Manu","Astral Dragon"]}
+{"spell":"whispering wind","creatures":["Green Hag","Adult Black Dragon","Flying Polyp","Storm Hag","Winter Hag","Erlking","Drowning Devil (Sarglagon)","Accuser Devil (Zebub)","Lorelei","Chuspiki"]}
+{"spell":"greater heroism","creatures":["Muse","Eclipse Giant","Esipil","Seilenos","Balisse","Hamadryad","Formian Myrmarch","Dybbuk"]}
+{"spell":"Feather fall","creatures":["Forest Dragon","Sylph"]}
+{"spell":"psychic surgery ","creatures":["Manu","Vishap"]}
+{"spell":"id insinuation I","creatures":["Grioth","Nulmind","Astral Dragon"]}
+{"spell":"dominate monster","creatures":["Intellect Devourer","Hellwasp Swarm","Deep One","Bokrug","Balor","Crystal Golem","Hekatonkheires","Star-Spawn of Cthulhu","Tyrant Jelly","Kraken","Aatheriexa","Dagon","Dandasuka","Nightmare Ettercap","Polong","Immortal Ichor","Aboleth","Wizard's Shackle","Dybbuk"]}
+{"spell":"control winds","creatures":["Dwiergeth","Cliff Giant","Yuki-Onna","Oceanid","Flying Polyp","Adult Gold Dragon","Anemos","Young Silver Dragon","Storm Hag","Adult White Dragon","Ijiraq","Kraken","Cetus","Dagon","Forest Dragon","Young Brass Dragon"]}
+{"spell":"symbol of weakness","creatures":["Bokrug"]}
+{"spell":"mass cure serious wounds","creatures":["Trumpet Archon"]}
+{"spell":"wail of the banshee","creatures":["Tzitzimitl","Banshee","Olethrodaemon","Catrina","Demilich"]}
+{"spell":"mass pain strike","creatures":["Cernunnos","Aoandon","Gristly Demodand"]}
+{"spell":"discern location","creatures":["Exscinder","Cernunnos","Agyra","Cervinal","Guardian Dragon","Dagon","Iron Cobra","Ankou","Hound of Tindalos","Balisse","Iron Cobra","Clay Golem","Ancient Green Dragon","Retriever","Devilbound Sorcerer","Contract Devil"]}
+{"spell":"air walk","creatures":["Ectoplasmic Human","Yangethe","Sleipnir","Bokrug","Grim Reaper","Zelekhut","Hekatonkheires","Esipil","Thanadaemon","Crucidaemon","Winterwight","Leng Spider","Cetus","Olethrodaemon","Dagon","Chernobue","Kalavakus","Hound of Tindalos","Dandasuka","Hundun","Beheaded","Thrasfyr","Isitoq","Danava","Titan, Elysian"]}
+{"spell":"arcane lock","creatures":["Coloxus","Divine Guardian Hydra","Lunar Dragon","Blood Golem"]}
+{"spell":"lesser confusion","creatures":["Broken Soul Lillend","Pixie","Cacodaemon","Gray Ooze","Brownie"]}
+{"spell":"blasphemy","creatures":["Balor","Pleroma","Devastator","Adhukait","Esipil","Shaggy Demodand","Olethrodaemon","Dagon","Drowning Devil (Sarglagon)","Accuser Devil (Zebub)","Aghash","Lemure","Apostate Devil (Deimavigga)","Shemhazian","Devilbound Sorcerer","Hezrou"]}
+{"spell":"riding possession","creatures":["Tulpa"]}
+{"spell":"aversion","creatures":["Brain Mole","Manu","Vishap","Astral Dragon","Caller in Darkness"]}
+{"spell":"erase impressions","creatures":["Astral Dragon"]}
+{"spell":"Irresistible dance","creatures":["Fey Giant Toad"]}
+{"spell":"eagle eye","creatures":["Eclipse Giant"]}
+{"spell":"cure light wounds","creatures":["Exscinder","Ghaele","Drow Noble","Lamia Matriarch","Trumpet Archon","Deep One","Cernunnos","Guardian Naga","Lammasu","Samsaran","Planetar","Solar","Bagiennik","Harbinger Archon","Fastachee","Jinushigami","Shabti","Kirin","Unicorn","Moon Dog","Astral Deva","Lillend","Kitsune","Lampad","Formian Myrmarch","Spirit Naga","Half-Celestial Unicorn"]}
+{"spell":"planar ally","creatures":["Hellcat","Couatl","Warmonger Wasp","Ceustodaemon"]}
+{"spell":"modify memory","creatures":["Gancanagh","Exscinder","Gray","Rhu-chalik","Etiainen","Muse","Pixie","Vilderavn","Mothman","Baku","Dandasuka","Yithian","Nightmare Ettercap","Brain Ooze","Apostate Devil (Deimavigga)","Dybbuk","Caulborn"]}
+{"spell":"river of wind","creatures":["Brine Dragon","Flying Polyp","Storm Hag"]}
+{"spell":"create water","creatures":["Shen","Cernunnos","Ancient Black Dragon","Pleroma","Oceanid","Magma Ooze","Marid","Omox","Undine","Fastachee","Apkallu","Shabti","Kirin","Mobogo","Forest Dragon","Balisse","Shard Slag","Glaistig","Djinni","Julunggali","Fuath"]}
+{"spell":"control summoned creature","creatures":["Yangethe"]}
+{"spell":"Control winds","creatures":["Forest Dragon"]}
+{"spell":"Wall of stone","creatures":["Forest Dragon"]}
+{"spell":"symbol of fear","creatures":["Mummified Gynosphinx","Bokrug","Esipil","Sphinx (Gynosphinx)"]}
+{"spell":"sculpt sound","creatures":["Pleroma","Balisse","Jinmenju"]}
+{"spell":"harm","creatures":["Brine Dragon","Leukodaemon","Sceaduinar","Drowning Devil (Sarglagon)"]}
+{"spell":"ice storm","creatures":["Brine Dragon","Ice Devil (Gelugon)","Yuki-Onna","Adult Green Dragon","Efreeti","Marid","Young Bronze Dragon","Adlet","Crone queen","Iron Golem","Ijiraq","Khala","Cold Rider","Stormghost","Forest Dragon","Drowning Devil (Sarglagon)","Aghash","Devilbound Sorcerer"]}
+{"spell":"hold monster","creatures":["Lhaksharut","Ghaele","Alraune","Cassisian","Axiomite","Adhukait","Tyrant Jelly","Crucidaemon","Soulbound Mannequin","Cloaker","Yithian","Drowning Devil (Sarglagon)","Adult Blue Dragon","Jorogumo","Aghash","Ceustodaemon","Formian Myrmarch","Devilbound Sorcerer","Caulborn"]}
+{"spell":"blink","creatures":["Adhukait","Lunar Dragon","LUNAR NAGA","Forest Dragon","Blink Dog","Barghest","Greater Barghest"]}
+{"spell":"cold ice strike","creatures":["Bisha ga tsuku","Hyakume","Lunar Dragon"]}
+{"spell":"displacement","creatures":["Young White Dragon","Garuda","Thulgant","Brine Dragon","Adult Red Dragon","Adult Green Dragon","Red Wyrm Ravener","Dark Naga","Berbalang","Lunar Dragon","Clockwork Dragon","Forest Dragon","Adult Blue Dragon","Astradaemon","Spirit Naga","Young Brass Dragon","Witchwyrd","Devilbound Sorcerer"]}
+{"spell":"Holy aura","creatures":["Half-Celestial Unicorn"]}
+{"spell":"mage's private sanctum","creatures":["Lunar Dragon","Contract Devil"]}
+{"spell":"magic jar","creatures":["Bhole","Bhuta","Soulbound Mannequin","Yithian","Soulbound Doll","Devourer","Accuser Devil (Zebub)","Shadow Demon","Soulbound Shell","Ghost","Astradaemon","Formian Myrmarch","Dybbuk"]}
+{"spell":"creeping doom","creatures":["Cernunnos","Immortal Ichor","Derghodaemon"]}
+{"spell":"longstrider","creatures":["Cat Lord","Fastachee"]}
+{"spell":"moment of prescience","creatures":["Cernunnos","Ophiotaurus","Manu","Forest Dragon","Bythos","Norn","Sphinx Colossus"]}
+{"spell":"remove paralysis","creatures":["Human Zombie","Cernunnos","Balisse","Spider Eater"]}
+{"spell":"mirror strike","creatures":["Astral Dragon"]}
+{"spell":"touch of idiocy","creatures":["Theletos","Rokurokubi","Lunar Dragon","Clockwork Dragon","Forest Dragon","Xacarba","Crysmal","Astral Dragon","Aghash","Apostate Devil (Deimavigga)","Cerebric Fungus"]}
+{"spell":"flaming sphere","creatures":["Brine Dragon","Fastachee","Forest Dragon","Forlarren","Brijidine"]}
+{"spell":"euphoric tranquility","creatures":["Balisse"]}
+{"spell":"create mindscape","creatures":["Tulpa","Astral Dragon"]}
+{"spell":"unshakable chill","creatures":["Crone queen"]}
+{"spell":"animate rope","creatures":["Korred","Rope Dragon","Erinyes"]}
+{"spell":"Resistance","creatures":["Shadow Roper","Unfettered Eidolon","Fey Giant Toad"]}
+{"spell":"unshakable zeal","creatures":["Manu"]}
+{"spell":"see alignment","creatures":["Irminsul"]}
+{"spell":"beast shape II","creatures":["Pixie","Peuchen","Esipil","Ijiraq","Imp","Vampire","Catrina","Hound Archon","Tanuki","Pukwudgie"]}
+{"spell":"word of chaos","creatures":["Thulgant","Pleroma","Iathavos","Drowning Devil (Sarglagon)","Hundun"]}
+{"spell":"Scorching ray","creatures":["Brine Dragon"]}
+{"spell":"mental barrier II","creatures":["Astral Dragon"]}
+{"spell":"Transmute mud to rock","creatures":["Caryatid Column","Blood Golem"]}
+{"spell":"stone call","creatures":["Air Veela","Lampad","Kikimora"]}
+{"spell":"bear's endurance","creatures":["Ghaele","Planetar","Solar"]}
+{"spell":"cause fear","creatures":["Drow Noble","Broken Soul Lillend","Wyvaran","Lunar Dragon","Quasit","Ratling","Clockwork Dragon","Forest Dragon","Siren","Dretch"]}
+{"spell":"magic circle against chaos","creatures":["Pleroma","Drowning Devil (Sarglagon)","Guecubu"]}
+{"spell":"detect thoughts","creatures":["Gancanagh","Exscinder","Ghaele","Bogeyman","Seugathi","Contemplative","Alraune","Brine Dragon","Pipefox","Cernunnos","Rhu-chalik","Worm that Walks","Adult Red Dragon","Guardian Naga","Adult Green Dragon","Thought Eater","Pleroma","Red Wyrm Ravener","Young Bronze Dragon","Brass Dragon","Pixie","Pharaonic Guardian","Coloxus","Star-Spawn of Cthulhu","Couatl","Esipil","Dark Naga","Jinushigami","Vilderavn","Lunar Dragon","Dorvae","Shaggy Demodand","Mothman","Lotus Tree","Denizen of Leng","Forest Dragon","Xacarba","Succubus","Yithian","Nightmare Ettercap","Doppelganger","Adult Brass Dragon","Devourer","Neothelid","Sangoi","Catrina","Gristly Demodand","Brain Ooze","Immortal Ichor","Tulpa","Astral Dragon","Jorogumo","Formian Myrmarch","Cerebric Fungus","Owb","Thriae Queen","Young Brass Dragon","Devilbound Sorcerer","Dybbuk","Caulborn","Contract Devil"]}
+{"spell":"Blasphemy","creatures":["Half-Fiend Minotaur"]}
+{"spell":"Guards and wards","creatures":["Divine Guardian Hydra"]}
+{"spell":"tree stride","creatures":["Korred","Dryad","Grootslang","Living Topiary","Jinushigami","Tunche","Erlking","Forest Dragon","Hamadryad"]}
+{"spell":"possession","creatures":["Crystal Golem","Psychemental","Tulpa","Astral Dragon"]}
+{"spell":"disguise self","creatures":["Lhaksharut","Green Hag","Ghaele","Serpentfolk","Rokurokubi","Etiainen","Svirfneblin","Adhukait","Grig","Kirin","Gaki","Soulbound Mannequin","Huecuva","Vampire","Drowning Devil (Sarglagon)","Fetchling (Kayal)","Shadow Collector","Witchfire","Lamia","Devilbound Sorcerer"]}
+{"spell":"halt undead","creatures":["Catrina"]}
+{"spell":"screen","creatures":["Shining Child"]}
+{"spell":"Spike stones","creatures":["Forest Dragon"]}
+{"spell":"weird","creatures":["Bokrug","Dandasuka","Norn"]}
+{"spell":"detect undead","creatures":["Dhampir","Wyrmwraith","Shredskin","Sayona","Catrina"]}
+{"spell":"planar binding","creatures":["Hellcat","Urannag","Warmonger Wasp","Ceustodaemon"]}
+{"spell":"undeath to death","creatures":["Solar","Catrina"]}
+{"spell":"statue","creatures":["Young Bronze Dragon","Jinushigami","Ice Golem","Gorgon"]}
+{"spell":"control undead","creatures":["Wyrmwraith","Devourer","Immortal Ichor","Pukwudgie"]}
+{"spell":"finger of death","creatures":["Brine Dragon","Grim Reaper","Jinushigami","Erlking","Wyrmwraith","Saxra","Death Coach","Astradaemon"]}
+{"spell":"divine power","creatures":["Ghaele","Shield Archon","Trumpet Archon","Guardian Naga","Einherji","Drowning Devil (Sarglagon)","Valkyrie"]}
+{"spell":"plane shift","creatures":["Bebilith","Janni","Gancanagh","Exscinder","Thulgant","Shaitan","Cassisian","Trumpet Archon","Nightmare","Worm that Walks","Bokrug","Xanthos","Efreeti","Grim Reaper","Devastator","Marid","Planetar","Marut","Solar","Cervinal","Zelekhut","Bone Golem","Mercane","Iathavos","Hekatonkheires","Guardian Dragon","Young Silver Dragon","Couatl","Esipil","Apkallu","Thanadaemon","Elohim","Dragon Horse","Lunar Dragon","Fire Yai","Quasit","Moon Dog","Manu","Young Gold Dragon","Chernobue","Hound of Tindalos","Denizen of Leng","Astral Deva","Forest Dragon","D'ziriak","Balisse","Augur","Ostiarius","Djinni","Bythos","Hundun","Catrina","Fetchling (Kayal)","Accuser Devil (Zebub)","Cauchemar","Astral Dragon","Taotieh","Aghash","Astradaemon","Owb","Lipika","Caulborn","Contract Devil","Valkyrie"]}
+{"spell":"greater invisibility","creatures":["Shen","Gancanagh","Ghaele","Brine Dragon","Pipefox","Adult Red Dragon","Guardian Naga","Lammasu","Efreeti","Red Wyrm Ravener","Lunar Dragon","Mothman","Stormghost","Phantom Fungus","Soulbound Mannequin","Clockwork Dragon","Forest Dragon","Vampire","Manitou","Faerie Dragon","Drowning Devil (Sarglagon)","Lurker in Light","Svartalfar"]}
+{"spell":"summon nature's ally III","creatures":["Fungus Leshy","Satyr"]}
+{"spell":"polypurpose panacea","creatures":["Maenad"]}
+{"spell":"lesser restoration","creatures":["Ghaele","Trumpet Archon","Cernunnos","Guardian Naga","Lammasu","Planetar","Solar","Fastachee","Kirin","Young Gold Dragon","Balisse","Jyoti"]}
+{"spell":"mass cure moderate wounds","creatures":["Planetar","Solar"]}
+{"spell":"heat metal","creatures":["Cernunnos","Efreeti","Clockwork Goliath","Bone Golem","Aurumvorax","Mephit","Forlarren","Brijidine"]}
+{"spell":"plant growth","creatures":["Zomok","Fungus Leshy","Adult Black Dragon","Flytrap Leshy","Adult Green Dragon","Pleroma","Ancient Blue Dragon","Barometz","Black Dragon","Guardian Dragon","Fungal Nymph","Fastachee","Seilenos","Tunche","Mobogo","Erlking","Gray Goo","Annihilator"]}
+{"spell":"mind thrust I","creatures":["Astomoi","Nulmind","Brain Mole","Emotion Ooze","Astral Dragon"]}
+{"spell":"doom","creatures":["Theletos","Mite"]}
+{"spell":"mental barrier I","creatures":["Nulmind","Brain Mole","Egregore"]}
+{"spell":"augury","creatures":["Theletos","Janni","Marsh Giant","Pipefox","Cernunnos","Divine Guardian Hydra","Young Silver Dragon","Imp","Graeae","Bythos","Silver Dragon"]}
+{"spell":"levitate","creatures":["Seugathi","Drow Noble","Bokrug","Adhukait","Harionago","Frost Giant","Drow","Carbuncle","Soulbound Mannequin","Denizen of Leng","Cloud Giant","Soulbound Doll","Barghest","Isitoq","Drider","Greater Barghest"]}
+{"spell":"greater synaptic pulse","creatures":["Manu"]}
+{"spell":"color spray","creatures":["Brine Dragon","Cervinal","Leprechaun","Sprite","Kirin","Lunar Dragon","Clockwork Dragon","Forest Dragon","Gathlain","Astral Dragon"]}
+{"spell":"incendiary cloud","creatures":["Bone Golem","Khala","Fire Yai"]}
+{"spell":"ray of frost","creatures":["Young White Dragon","White Dragon","Brine Dragon","Guardian Naga","Red Wyrm Ravener","Adlet","Lich","Couatl","Dark Naga","Cold Rider","LUNAR NAGA","Forest Dragon","Gathlain","Drider","Spirit Naga"]}
+{"spell":"pass without trace","creatures":["Zomok","Fungus Leshy","Green Hag","Flytrap Leshy","Wayang","Cernunnos","Cat Lord","Adlet","Kech","Spring-Heeled Jack","Living Topiary","Fungal Nymph","Winter Hag","Cold Rider","Water Orm","Huldra","Sea Serpent","Mobogo","Forest Dragon","Manitou","Glaistig","Mngwa","Blightspawn","Deep Sea Serpent"]}
+{"spell":"pyrotechnics","creatures":["Green Hag","Adult Red Dragon","Efreeti","Red Wyrm Ravener","Young Red Dragon","Peri","Grig","Fire Yai","Young Copper Dragon","Forest Dragon","Mephit","Ancient Green Dragon","Witchfire","Barbed Devil (Hamatula)"]}
+{"spell":"spider climb","creatures":["Morlock","Blood Hag","Giant Gecko","Adult Bronze Dragon","Akaname","Adhukait","Nosferatu","Ancient Red Dragon","Winter Hag","Cold Rider","Ratling","Clockwork Dragon","Vampire","Tikbalang","Flame Drake","Ice Elemental","Accuser Devil (Zebub)","Lampad","Retriever"]}
+{"spell":"locate object","creatures":["Mummified Gynosphinx","Brine Dragon","Adult Green Dragon","Adult Copper Dragon","Adhukait","Guardian Dragon","Lunar Dragon","Sphinx (Gynosphinx)","Denizen of Leng","Isitoq","Thriae Queen","Young Brass Dragon"]}
+{"spell":"interposing hand","creatures":["Young Bronze Dragon"]}
+{"spell":"globe of invulnerability","creatures":["Shen","Intellect Devourer","Ghaele","Lich","Balisse"]}
+{"spell":"overwhelming presence","creatures":["Anunnaki","Apkallu","Balisse"]}
+{"spell":"inflict moderate wounds","creatures":["Dark Slayer","Blood Hag"]}
+{"spell":"blood biography","creatures":["Catrina","Astral Dragon"]}
+{"spell":"hydraulic push","creatures":["Shen","Air Veela","Undine","Forest Dragon","Drowning Devil (Sarglagon)","Vodyanoi","Devilbound Sorcerer"]}
+{"spell":"detect animals or plants","creatures":["Cliff Giant"]}
+{"spell":"telekinesis","creatures":["Thulgant","Contemplative","Gearghost","Worm that Walks","Adult Red Dragon","Vrock","Balor","Oceanid","Vrolikai","Omox","Bone Golem","Axiomite","Nosferatu","Irminsul","Popobala","Lunar Dragon","Olethrodaemon","Dagon","Kalavakus","Nabasu","Adamantine Golem","Augur","Dandasuka","Neothelid","Catrina","Warsworn","Immortal Ichor","Poltergeist","Aghash","Shadow Demon","Ghost","Shemhazian","Demilich","Marilith","Dybbuk"]}
+{"spell":"telepathic bond","creatures":["Lunar Dragon"]}
+{"spell":"blade barrier","creatures":["Exscinder","Devastator","Planetar","Solar","Adhukait","Fire Yai","Adamantine Golem","Astral Deva","Balisse","Augur","Astral Dragon","Marilith"]}
+{"spell":"neutralize poison","creatures":["Trumpet Archon","Cernunnos","Crystal Golem","Planetar","Solar","Bagiennik","Jinushigami","Unicorn","Moon Dog","Chernobue","Balisse","Wakandagi","Manitou","Hamadryad","Julunggali","Vodyanoi","Karkadann","Thriae Queen","Half-Celestial Unicorn"]}
+{"spell":"Locate creature","creatures":["Lunar Dragon"]}
+{"spell":"shadow conjuration","creatures":["Shen","Mummy Lord","Shadow Roper","Ankou","Nightmare Ettercap","Shadow Collector","Shadow Demon"]}
+{"spell":"chill touch","creatures":["Dark Slayer","Iron Golem","Forest Dragon","Vampire","Svartalfar"]}
+{"spell":"Erase","creatures":["Tupilaq"]}
+{"spell":"ego whip III","creatures":["Astral Dragon"]}
+{"spell":"greater oneiric horror","creatures":["Caller in Darkness"]}
+{"spell":"programmed image","creatures":["Shen","Young Copper Dragon","Aboleth"]}
+{"spell":"<a href=\"../advancedRaceGuide/uncommonRaces/nagaji.html#spit-venom\">Spit Venom","creatures":["Mummy Lord"]}
+{"spell":"purging finale","creatures":["Muse"]}
+{"spell":"hungry pit","creatures":["Brine Dragon"]}
+{"spell":"foster hatred","creatures":["Tulpa"]}
+{"spell":"greater glyph of warding","creatures":["Crucidaemon"]}
+{"spell":"veil","creatures":["Green Hag","Shaitan","Brine Dragon","Pale Stranger","Bokrug","Ancient Black Dragon","Pleroma","Bhuta","Glabrezu","Leng Spider","Adult Blue Dragon","Tanuki","Aboleth"]}
+{"spell":"grasping hand","creatures":["Fire Yai"]}
+{"spell":"goodberry","creatures":["Fastachee","Ghoran"]}
+{"spell":"polymorph any object","creatures":["Seilenos","Dagon","Adamantine Golem","Stone Golem"]}
+{"spell":"lightning bolt","creatures":["Young White Dragon","Gancanagh","Rakshasa","Brine Dragon","Guardian Naga","Axiomite","Horned Devil (Cornugon)","Dark Naga","Storm Hag","Kirin","Lunar Dragon","Bralani","Aatheriexa","Forest Dragon","Neh-Thalggu","Catrina","Sard","Soulbound Shell","Drider"]}
+{"spell":"lunar veil","creatures":["Eclipse Giant"]}
+{"spell":"Transmute metal to wood","creatures":["Adamantine Golem"]}
+{"spell":"joyful rapture","creatures":["Seilenos","Balisse"]}
+{"spell":"sleet storm","creatures":["Brine Dragon","Adlet","Winterwight","Ijiraq","Forest Dragon","Drowning Devil (Sarglagon)","Qallupilluk"]}
+{"spell":"lily pad stride","creatures":["Flytrap Leshy"]}
+{"spell":"reckless infatuation","creatures":["Seilenos"]}
+{"spell":"feast of ashes","creatures":["Graeae"]}
+{"spell":"Dismissal","creatures":["Divine Guardian Hydra"]}
+{"spell":"elemental swarm","creatures":["Cernunnos","Marid"]}
+{"spell":"Desecrate ","creatures":["Half-Fiend Minotaur"]}
+{"spell":"make whole","creatures":["Juggernaut","Gearghost","Brine Dragon","Ahkhat","Pleroma","Clockwork Goliath","Flesh Colossus","Graven Guardian","Clockwork Familiar","Necrocraft","Balisse","Guardian Scroll","Kolyarut","Koto-furunishi","Kikimora","Soulbound Shell"]}
+{"spell":"imprisonment","creatures":["Brine Dragon","Marut","Solar","Iathavos","Hekatonkheires","Ancient Red Dragon","Devourer","Titan, Elysian"]}
+{"spell":"honeyed tongue","creatures":["Muse"]}
+{"spell":"mental block","creatures":["Anunnaki","Vishap"]}
+{"spell":"ant haul","creatures":["Fastachee"]}
+{"spell":"scare","creatures":["Zuvembie","Spriggan","Clockwork Dragon","Forest Dragon","Grimple","Pukwudgie"]}
+{"spell":"Aid","creatures":["Half-Celestial Unicorn"]}
+{"spell":"summon nature's ally II","creatures":["Fungus Leshy","Triton"]}
+{"spell":"simulacrum","creatures":["Winter Hag"]}
+{"spell":"meld into stone","creatures":["Shaitan","Dryad","Hamadryad","Brijidine","Lampad"]}
+{"spell":"magic circle against good","creatures":["Pleroma","Horned Devil (Cornugon)","Esipil","Shaggy Demodand","Drowning Devil (Sarglagon)","Aghash","Lemure","Apostate Devil (Deimavigga)"]}
+{"spell":"invisibility","creatures":["Young White Dragon","Intellect Devourer","Janni","Lhaksharut","Green Hag","Adult Black Dragon","Gug","Bogeyman","Rakshasa","Young Blue Dragon","Brine Dragon","Cassisian","Rokurokubi","Drow Noble","Lamia Matriarch","Worm that Walks","Aranea","Night Hag","Efreeti","Marid","Young Bronze Dragon","Planetar","Solar","Coloxus","Mercane","Copper Dragon","Young Red Dragon","Young Silver Dragon","Lich","Couatl","Leprechaun","Cacodaemon","Dark Naga","Jinushigami","Grig","Crucidaemon","Winter Hag","Leng Spider","Gaki","Lunar Dragon","Shaggy Demodand","Fire Yai","Quasit","Imp","LUNAR NAGA","Ratling","Baku","Tooth Fairy","Young Copper Dragon","Pooka","Ogre Mage","Hound of Tindalos","Astral Deva","Forest Dragon","Vampire","Xacarba","Bone Devil (Osyluth)","Dandasuka","Duergar","Nightmare Ettercap","Rusalka","Neh-Thalggu","Lillend","Djinni","Tikbalang","Drowning Devil (Sarglagon)","Kapre","Sayona","Adult Blue Dragon","Catrina","Accuser Devil (Zebub)","Aghash","Lemure","Drider","Witchfire","Formian Myrmarch","Shemhazian","Spirit Naga","Pukwudgie","Devilbound Sorcerer","Atomie","Tupilaq","Fey Giant Toad"]}
+{"spell":"transmute mud to rock","creatures":["Zomok","Stone Golem","Fire Giant","Young Copper Dragon","Mudlord","Guecubu","Aghash"]}
+{"spell":"shrink item","creatures":["Koto-furunishi","Tanuki","Atomie"]}
+{"spell":"righteous might","creatures":["Planetar","Solar","Balisse"]}
+{"spell":"death ward","creatures":["Ghaele","Cernunnos","Blood Hag","Planetar","Solar","Balisse","Saxra","Norn","Valkyrie"]}
+{"spell":"power word kill","creatures":["Grim Reaper","Solar","Adult Bronze Dragon","Demilich","Norn"]}
+{"spell":"sequester","creatures":["Lunar Dragon"]}
+{"spell":"summon instrument","creatures":["Muse"]}
+{"spell":"synaptic pulse","creatures":["Vishap","Psychemental"]}
+{"spell":"Transmute rock to mud","creatures":["Blood Golem"]}
+{"spell":"good hope","creatures":["Dagon","Formian Myrmarch"]}
+{"spell":"see invisibility","creatures":["Young White Dragon","Mummified Gynosphinx","Gancanagh","Garuda","Ghaele","Phoenix","Piscodaemon","Brine Dragon","Babau","Turul","Adult Red Dragon","Guardian Naga","Adult Green Dragon","Grim Reaper","Pleroma","Agyra","Red Wyrm Ravener","Marid","Baregara","Cerynitis","Brass Dragon","Cervinal","Coloxus","Bone Golem","Scylla","Young Red Dragon","Adhukait","Lich","Esipil","Jinushigami","Winter Hag","Penanggalen","Lunar Dragon","Dorvae","Shaggy Demodand","Aatheriexa","LUNAR NAGA","Moon Dog","Young Copper Dragon","Sphinx (Gynosphinx)","Astral Deva","Clockwork Dragon","Meladaemon","Forest Dragon","Kabandha","Dandasuka","Drowning Devil (Sarglagon)","Catrina","Gristly Demodand","Derghodaemon","Astral Dragon","Thrasfyr","Ceustodaemon","Young Brass Dragon"]}
+{"spell":"dimension door","creatures":["Young White Dragon","Shen","Gancanagh","Thulgant","Adult Black Dragon","Brine Dragon","Worm that Walks","Astral Leviathan","Lammasu","Bokrug","Adult Green Dragon","Shoggti","Young Bronze Dragon","Omox","Twigjack","Zelekhut","Crypt Thing","Mercane","Iathavos","Divine Guardian Hydra","Animate Dream","Fungal Nymph","Young Silver Dragon","Lich","Jinushigami","Winterwight","Lunar Dragon","Dorvae","Ijiraq","Tiyanak","Ratling","Nymph","Carbuncle","Forest Dragon","Dandasuka","Jyoti","Blink Dog","Brownie","Leanan Sidhe","Sceaduinar","Soulsliver","Lurker in Light","Hundun","Adult Blue Dragon","Drakainia","Crysmal","Disenchanter","Astral Dragon","Barghest","Nyogoth","Aghash","Ceustodaemon","Karkadann","Greater Barghest","Witchwyrd","Devilbound Sorcerer","Contract Devil"]}
+{"spell":"mass bull's strength","creatures":["Juggernaut","Cervinal","Egregore","Greater Barghest"]}
+{"spell":"<i>reincarnation</i>","creatures":["Iathavos","Soul Eater"]}
+{"spell":"dispel evil","creatures":["Exscinder","Cassisian","Trumpet Archon","Bokrug","Pleroma","Planetar","Solar","Animate Dream","Nemhain","Jinushigami","Dagon","Young Gold Dragon","Astral Deva","Balisse","Succubus","Devourer","Demilich"]}
+{"spell":"id insinuation IV","creatures":["Lotus Tree","Vishap"]}
+{"spell":"shatter","creatures":["Seaweed Siren","Korred","Graven Guardian","Spriggan","Cold Rider","Caryatid Column","Adamantine Golem","Blood Golem","Adult Blue Dragon","Demilich"]}
+{"spell":"dimensional lock","creatures":["Exscinder","Cernunnos","Red Wyrm Ravener","Marut","Iathavos","Adhukait","Guardian Dragon","Apkallu","Augur","Ostiarius","Bythos","Astral Dragon"]}
+{"spell":"ethereal envelopment","creatures":["Vishap"]}
+{"spell":"saving finale","creatures":["Muse"]}
+{"spell":"breath of life","creatures":["Cernunnos","Turul","Solar","Cervinal","Guardian Dragon","Fastachee","Jinushigami","Balisse","Augur","Jyoti","Valkyrie"]}
+{"spell":"symbol of stunning","creatures":["Mummified Gynosphinx","Wood Golem","Bokrug","Dagon","Sphinx (Gynosphinx)"]}
+{"spell":"greater arcane sight","creatures":["Norn"]}
+{"spell":"mending","creatures":["Young White Dragon","Garuda","Fungus Leshy","Adult Black Dragon","White Dragon","Gearghost","Rakshasa","Young Blue Dragon","Lamia Matriarch","Cernunnos","Adult Red Dragon","Lammasu","Pleroma","Red Wyrm Ravener","Homunculus","Young Black Dragon","Young Red Dragon","Kirin","Young Gold Dragon","Forest Dragon","Vampire","Dandasuka","Brownie","Adult Blue Dragon","Ancient Copper Dragon","Lampad","Formian Myrmarch","Gold Dragon","Devilbound Sorcerer"]}
+{"spell":"darkness","creatures":["Shining Child","Tiefling","Adult Black Dragon","Dark Slayer","Bogeyman","Brine Dragon","Derro","Rokurokubi","Broken Soul Lillend","Babau","Zuvembie","Black Dragon","Young Black Dragon","Graven Guardian","Lich","Manananggal","Drow","Fire Yai","Half-Fiend Minotaur","Chernobue","Ogre Mage","Mandragora","Dandasuka","Tenebrous Worm","Lillend","Ostiarius","Aoandon","Adult Blue Dragon","Dark Creeper","Drider","Darkmantle","Devilbound Sorcerer"]}
+{"spell":"microcosm","creatures":["Lotus Tree"]}
+{"spell":"control water","creatures":["Shen","Nuckelavee","Brine Dragon","Grodair","Hydrodaemon","Oceanid","Marid","Young Bronze Dragon","Eclipse Giant","Omox","Scylla","Apkallu","Fire Yai","Cetus","Dagon","Nereid","Mobogo","Forest Dragon","Rusalka","Abaia","Adult Brass Dragon","Drowning Devil (Sarglagon)","Julunggali","Ice Elemental","Vodyanoi","Aghash","Annihilator"]}
+{"spell":"create undead","creatures":["Crypt Thing","Tzitzimitl","Huecuva","Wyrmwraith","Mummy","Aghash","Lemure","Witchfire"]}
+{"spell":"resilient sphere","creatures":["Witchwyrd"]}
+{"spell":"life bubble","creatures":["Lunar Dragon"]}
+{"spell":"symbol of persuasion","creatures":["Mummified Gynosphinx","Bokrug","Dagon","Sphinx (Gynosphinx)","Kalavakus"]}
+{"spell":"charge object","creatures":["Vishap"]}
+{"spell":"wall of iron","creatures":["Flesh Colossus"]}
+{"spell":"antimagic field","creatures":["Cassisian","Cernunnos","Wood Golem","Adult Red Dragon","Flesh Colossus","Young Copper Dragon","Young Gold Dragon","Balisse","Drakainia","Sphinx Colossus"]}
+{"spell":"detect law","creatures":["Night Hag","Cythnigot","Pleroma","Shinigami","Pixie","Couatl","Dagon","Hundun","Hag Eye Ooze","Isitoq","Drider"]}
+{"spell":"sepia snake sigil","creatures":["Gancanagh"]}
+{"spell":"ear-piercing scream","creatures":["Broken Soul Lillend"]}
+{"spell":"confusion","creatures":["Intellect Devourer","Juggernaut","Seugathi","Seaweed Siren","Marsh Giant","Bhole","Rokurokubi","Worm that Walks","Red Wyrm Ravener","Coloxus","Swan Maiden","Animate Dream","Graven Guardian","Glabrezu","Lunar Dragon","Apocalypse Locust","Young Copper Dragon","Chernobue","Soulbound Mannequin","Forest Dragon","Hamadryad","Devourer","Drowning Devil (Sarglagon)","Maenad","Formian Myrmarch","Young Brass Dragon","Devilbound Sorcerer"]}
+{"spell":"miserable pity","creatures":["Griefgall"]}
+{"spell":"detect evil","creatures":["Exscinder","Ghaele","Shedu","Cassisian","Trumpet Archon","Cernunnos","Lammasu","Night Hag","Pleroma","Marid","Adult Gold Dragon","Planetar","Pixie","Solar","Adult Copper Dragon","Harbinger Archon","Lantern Archon","Divine Guardian Hydra","Young Silver Dragon","Couatl","Jinushigami","Sprite","Kirin","Gaki","Unicorn","Young Gold Dragon","Astral Deva","Forest Dragon","Balisse","Wakandagi","Manitou","Simurgh","Ancient Gold Dragon","Hound Archon","Ancient Copper Dragon","Hag Eye Ooze","Isitoq","Silver Dragon","Karkadann","Pegasus","Gold Dragon","Half-Celestial Unicorn"]}
+{"spell":"<i>deeper darkness</i>","creatures":["Drow"]}
+{"spell":"dream","creatures":["Green Hag","Lamia Matriarch","Bokrug","Star-Spawn of Cthulhu","Animate Dream","Lunar Dragon","Baku","Forest Dragon","Nightmare Ettercap","Adult Blue Dragon"]}
+{"spell":"rage","creatures":["Broken Soul Lillend","Adaro","Einherji","Forest Dragon","Dandasuka","Soulbound Doll","Tanuki","Maenad","Devilbound Sorcerer"]}
+{"spell":"prismatic wall","creatures":["Julunggali"]}
+{"spell":"atonement","creatures":["Cernunnos","Divine Guardian Hydra","Apocalypse Locust","Dagon"]}
+{"spell":"heroic finale","creatures":["Muse"]}
+{"spell":"burning hands","creatures":["Brine Dragon","Xiao","Forest Dragon","Vampire","Ifrit","Drowning Devil (Sarglagon)","Devilbound Sorcerer"]}
+{"spell":"detect good","creatures":["Piscodaemon","Mummy Lord","Night Hag","Pleroma","Blood Hag","Marid","Pixie","Leukodaemon","Couatl","Esipil","Cacodaemon","Crucidaemon","Sprite","Shaggy Demodand","Quasit","Imp","Dagon","Meladaemon","Forest Dragon","Xacarba","Succubus","Gristly Demodand","Hag Eye Ooze","Isitoq","Aghash","Ceustodaemon","Drider","Karkadann","Pegasus","Shemhazian","Pukwudgie"]}
+{"spell":"purge spirit ","creatures":["Vishap","Astral Dragon"]}
+{"spell":"mage armor","creatures":["Garuda","Adult Black Dragon","Seugathi","Rakshasa","Young Blue Dragon","Lamia Matriarch","Rhu-chalik","Guardian Naga","Aranea","Red Wyrm Ravener","Young Bronze Dragon","Crone queen","Young Black Dragon","Lich","Couatl","Bronze Dragon","Penanggalen","Lunar Dragon","Maftet","Fire Yai","Nulmind","LUNAR NAGA","Young Gold Dragon","Vampire","Dandasuka","Jyoti","Ifrit","Adult Blue Dragon","Catrina","Brain Ooze","Ancient Copper Dragon","Astral Dragon","Egregore","Soulbound Shell","Drider","Gold Dragon","Witchwyrd","Devilbound Sorcerer"]}
+{"spell":"divide mind","creatures":["Anunnaki","Apkallu","Manu"]}
+{"spell":"Mount","creatures":["Graveknight"]}
+{"spell":"Horrid wilting","creatures":["Half-Fiend Minotaur"]}
+{"spell":"Imprisonment","creatures":["Brine Dragon"]}
+{"spell":"grease","creatures":["Young White Dragon","Garuda","Brine Dragon","Worm that Walks","Adult Red Dragon","Copper Dragon","Adult Bronze Dragon","Young Red Dragon","Ancient Red Dragon","Young Copper Dragon","Ancient Bronze Dragon","Hungry Flesh","Adamantine Golem","Clockwork Dragon","Neh-Thalggu","Faerie Dragon","Blood Golem","Grimple","Vodyanoi","Accuser Devil (Zebub)","Soulbound Shell"]}
+{"spell":"vision","creatures":["Green Hag","Lunar Dragon","Fire Yai","Xacarba","Norn","Contract Devil"]}
+{"spell":"dream council","creatures":["Manu","Lotus Tree","Astral Dragon"]}
+{"spell":"solid fog","creatures":["Brine Dragon","Red Wyrm Ravener","Young Bronze Dragon","Scylla","Young Silver Dragon","Lunar Dragon","Fire Yai","Forest Dragon"]}
+{"spell":"dimensional anchor","creatures":["Dwiergeth","Brine Dragon","Cernunnos","Devastator","Marut","Solar","Apkallu","Cerberi","Lunar Dragon","Ankou","Hound of Tindalos","Balisse","Bone Devil (Osyluth)","Bythos","Catrina","Gristly Demodand","Accuser Devil (Zebub)","Apostate Devil (Deimavigga)","Young Brass Dragon"]}
+{"spell":"burst of nettles","creatures":["Flytrap Leshy","Tunche"]}
+{"spell":"contagion","creatures":["Marsh Giant","Human Zombie","Nue","Coloxus","Leukodaemon","Tzitzimitl","Olethrodaemon","Adamantine Golem","Drakainia"]}
+{"spell":"locate creature","creatures":["Lhaksharut","Rokurokubi","Astral Leviathan","Xanthos","Zelekhut","Lunar Dragon","Hound of Tindalos","Forest Dragon","Catrina","Astradaemon","Young Brass Dragon","Devilbound Sorcerer","Tupilaq","Contract Devil","Soul Eater"]}
+{"spell":"forceful hand","creatures":["Lunar Dragon","Fire Yai","Forest Dragon","Adult Blue Dragon","Young Brass Dragon"]}
+{"spell":"mind blank","creatures":["Green Hag","Ophiotaurus","Star-Spawn of Cthulhu","Esipil","Elohim","Banshee","Dandasuka","Norn","Danava","Titan, Elysian","Caulborn"]}
+{"spell":"Reincarnate","creatures":["Dandasuka"]}
+{"spell":"etherealness","creatures":["Ether Drake","Anunnaki","Vishap"]}
+{"spell":"commune","creatures":["Androsphinx","Green Hag","Cassisian","Cythnigot","Flesh Golem","Solar","Harbinger Archon","Adhukait","Cacodaemon","Fire Yai","Quasit","Imp","Ratling","Dagon","Augur","Dandasuka","Kolyarut","Paracletus","Graeae"]}
+{"spell":"stabilize","creatures":["Androsphinx","Ghaele","Trumpet Archon","Guardian Naga","Lammasu","Samsaran","Planetar","Solar","Undine","Aasimar","Young Silver Dragon","Kirin","Nymph","Young Gold Dragon","Augur","Catrina","Ancient Copper Dragon","Silver Dragon","Gold Dragon"]}
+{"spell":"gate","creatures":["Shadow Roper","Bokrug","Pleroma","Iathavos","Hekatonkheires","Star-Spawn of Cthulhu","Olethrodaemon","Dagon","Shulsaga","Lurker in Light"]}
+{"spell":"Forbiddance","creatures":["Divine Guardian Hydra"]}
+{"spell":"share language","creatures":["Catrina"]}
+{"spell":"summon monster IV","creatures":["Worm that Walks","Planetar"]}
+{"spell":"wall of ice","creatures":["Young White Dragon","Bisha ga tsuku","Ice Devil (Gelugon)","Crone queen","Lich","Ancient Red Dragon","Jinushigami","Winterwight","Winter Hag","Olethrodaemon","Bone Devil (Osyluth)"]}
+{"spell":"antipathy","creatures":["Bokrug","Esipil","Julunggali"]}
+{"spell":"</a><a href=\"../coreRulebook/spells/command.html#greater-command\">greater command","creatures":["Apkallu","Balisse"]}
+{"spell":"storm of vengeance","creatures":["Brine Dragon","Tempest Behemoth","Anemos","Solar","Hekatonkheires","Dagon","Sard"]}
+{"spell":"magic aura","creatures":["Young White Dragon","Brine Dragon","Pleroma","Young Copper Dragon"]}
+{"spell":"burst of adrenaline","creatures":["Ether Drake","Vishap","Tulpa","Astral Dragon"]}
+{"spell":"power word blind","creatures":["Solar","Forest Dragon","Young Brass Dragon"]}
+{"spell":"hold person","creatures":["Lhaksharut","Adult Black Dragon","Bogeyman","Drow Noble","Nue","Baregara","Brass Dragon","Young Silver Dragon","Penanggalen","LUNAR NAGA","Forest Dragon","Neh-Thalggu","Lillend","Catrina","Barbed Devil (Hamatula)","Young Brass Dragon","Devilbound Sorcerer","Contract Devil"]}
+{"spell":"fickle winds","creatures":["Anemos","Balisse"]}
+{"spell":"major image","creatures":["Shen","Shining Child","Ghaele","Serpentfolk","Brine Dragon","Lamia Matriarch","Scylla","Swan Maiden","Copper Dragon","Leprechaun","Winter Hag","Leng Spider","Brain Mole","Mothman","Bone Devil (Osyluth)","Ostiarius","Tikbalang","Astral Dragon","Shadow Collector","Kikimora","Apostate Devil (Deimavigga)","Barbed Devil (Hamatula)","Lamia","Contract Devil"]}
+{"spell":"persuasive goad","creatures":["Guardian Dragon"]}
+{"spell":"greater planar binding","creatures":["Bokrug","Retriever"]}
+{"spell":"blight","creatures":["Nuckelavee","Green Hag","Fungal Nymph","Lunar Dragon","Meladaemon","Forest Dragon","Witchfire"]}
+{"spell":"spiritual weapon","creatures":["Shulsaga","Drowning Devil (Sarglagon)"]}
+{"spell":"dancing lights","creatures":["Ancient White Dragon","Young White Dragon","Gancanagh","Green Hag","Adult Black Dragon","Ghaele","White Dragon","Rakshasa","Brine Dragon","Drow Noble","Lamia Matriarch","Azruverda","Hobkins","Broken Soul Lillend","Adult Green Dragon","Brass Dragon","Eclipse Giant","Pixie","Satyr","Young Black Dragon","Swan Maiden","Harbinger Archon","Leprechaun","Seilenos","Iku-turso","Sprite","Penanggalen","Lunar Dragon","Manananggal","Drow","Moon Dog","Young Copper Dragon","Forest Dragon","Brownie","Neh-Thalggu","Lillend","Gathlain","Faerie Dragon","Kitsune","Lurker in Light","Gorynych","Catrina","Vodyanoi","Astral Dragon","Shadow Collector","Drider","Witchfire","Formian Myrmarch","Young Brass Dragon","Lipika","Atomie","Young Green Dragon","Fey Giant Toad"]}
+{"spell":"Call lightning storm","creatures":["Forest Dragon"]}
+{"spell":"cure serious wounds","creatures":["Ghaele","Cassisian","Trumpet Archon","Cernunnos","Guardian Naga","Lammasu","Air Veela","Planetar","Solar","Akhana","Young Silver Dragon","Fastachee","Bralani","Balisse","Augur","Jyoti","Lillend","Drakainia","Brijidine","Devilbound Sorcerer"]}
+{"spell":"bless","creatures":["Ghaele","Drow Noble","Trumpet Archon","Cernunnos","Human Skeleton","Lammasu","Vrock","Flesh Golem","Planetar","Solar","Adult Copper Dragon","Undine","Aasimar","Young Silver Dragon","Young Gold Dragon","Paracletus","Julunggali","Silver Dragon","Gold Dragon","Half-Celestial Unicorn"]}
+{"spell":"detect chaos","creatures":["Shedu","Night Hag","Pleroma","Shinigami","Marut","Pixie","Couatl","Apkallu","Kolyarut","Hag Eye Ooze","Isitoq"]}
+{"spell":"baleful polymorph","creatures":["Green Hag","Cernunnos","Pixie","Adhukait","Anunnaki","Fastachee","Cursed King","Elohim","Ijiraq","Forest Dragon","Dandasuka","Julunggali","Aghash"]}
+{"spell":"find the path","creatures":["Exscinder","Adult Red Dragon","Red Wyrm Ravener","Hekatonkheires","Ancient Green Dragon","Thriae Queen"]}
+{"spell":"soften ","creatures":["Brijidine"]}
+{"spell":"explode head","creatures":["Crystal Golem","Vishap"]}
+{"spell":"<i>protection from law</i>","creatures":["Augnagar"]}
+{"spell":"ethereal jaunt","creatures":["Janni","Hypnalis","Solar","Phase Spider","Couatl","Baku","Succubus","Drowning Devil (Sarglagon)","Cauchemar","Aghash"]}
+{"spell":"quintessence","creatures":["Manu","Koto-furunishi"]}
+{"spell":"sanctuary","creatures":["Theletos","Trumpet Archon","Cernunnos","Samsaran","Akhana","Kirin","Paracletus","Catrina","Crysmal"]}
+{"spell":"Repulsion","creatures":["Divine Guardian Hydra"]}
+{"spell":"mind thrust III","creatures":["Psychemental","Su"]}
+{"spell":"aqueous orb","creatures":["Brine Dragon","Cliff Giant","Fastachee","Wakandagi","Vodyanoi"]}
+{"spell":"burst of insight","creatures":["Manu","Tulpa","Astral Dragon"]}
+{"spell":"greater teleport","creatures":["Shining Child","Gancanagh","Exscinder","Ghaele","Shield Archon","Purrodaemon","Bearded Devil (Barbazu)","Piscodaemon","Trumpet Archon","Cernunnos","Ice Devil (Gelugon)","Abrikandilu","Babau","Bokrug","Vrock","Balor","Hydrodaemon","Red Wyrm Ravener","Marut","Vrolikai","Omox","Cervinal","Coloxus","Crypt Thing","Harbinger Archon","Leukodaemon","Lantern Archon","Adhukait","Anunnaki","Peri","Horned Devil (Cornugon)","Esipil","Apkallu","Thanadaemon","Jinushigami","Tzitzimitl","Crucidaemon","Glabrezu","Elohim","Lunar Dragon","Unicorn","Fire Yai","Nalfeshnee","Olethrodaemon","Dagon","Manu","Young Gold Dragon","Kalavakus","Nabasu","Ankou","Hound of Tindalos","Meladaemon","Forest Dragon","Xacarba","Augur","Bone Devil (Osyluth)","Dandasuka","Succubus","Sceaduinar","Drowning Devil (Sarglagon)","Julunggali","Bythos","Erinyes","Catrina","Hound Archon","Derghodaemon","Accuser Devil (Zebub)","Astral Dragon","Thrasfyr","Aghash","Lemure","Shadow Demon","Apostate Devil (Deimavigga)","Astradaemon","Shemhazian","Marilith","Barbed Devil (Hamatula)","Half-Celestial Unicorn","Hezrou","Contract Devil"]}
+{"spell":"endure elements","creatures":["Brass Dragon","Fastachee","Couatl","Adult White Dragon","Huldra","Nymph","Forest Dragon","Balisse","Young Brass Dragon","Tophet"]}
+{"spell":"Greater scrying","creatures":["Lunar Dragon"]}
+{"spell":"fly","creatures":["Piscodaemon","Rokurokubi","Ice Devil (Gelugon)","Worm that Walks","Bokrug","Cythnigot","Jinushigami","Tzitzimitl","Ijiraq","Fire Yai","Ogre Mage","Bone Devil (Osyluth)","Tikbalang","Graeae","Neothelid","Beheaded","Isitoq","Aghash","Soulbound Shell","Ceustodaemon","Shemhazian","Marilith","Devilbound Sorcerer"]}
+{"spell":"order's wrath","creatures":["Axiomite","Apkallu","Drowning Devil (Sarglagon)","Barbed Devil (Hamatula)"]}
+{"spell":"heroes' feast","creatures":["Solar","Einherji","Banshee"]}
+{"spell":"mass hold monster","creatures":["Vrolikai","Lemure"]}
+{"spell":"enthrall","creatures":["Theletos","Pleroma","LUNAR NAGA","Ostiarius","Graeae","Accuser Devil (Zebub)"]}
+{"spell":"king's castle","creatures":["Cernunnos"]}
+{"spell":"Gust of wind","creatures":["Forest Dragon"]}
+{"spell":"message","creatures":["Ancient White Dragon","Young White Dragon","Garuda","Adult Black Dragon","Shield Archon","Rakshasa","Brine Dragon","Rokurokubi","Trumpet Archon","Adult Red Dragon","Adult Green Dragon","Red Wyrm Ravener","Young Bronze Dragon","Brass Dragon","Young Black Dragon","Copper Dragon","Harbinger Archon","Young Red Dragon","Young Silver Dragon","Bronze Dragon","Red Dragon","Lunar Dragon","LUNAR NAGA","Young Copper Dragon","Ancient Bronze Dragon","Forest Dragon","Vampire","Dandasuka","Ancient Gold Dragon","Gorynych","Adult Blue Dragon","Hound Archon","Isitoq","Silver Dragon","Formian Myrmarch","Young Brass Dragon","Devilbound Sorcerer","Young Green Dragon","Ancient Brass Dragon"]}
+{"spell":"wood shape","creatures":["Dryad","Pleroma","Wood Golem","Jinushigami","Huldra","Hamadryad","Blood Golem"]}
+{"spell":"prayer","creatures":["Cernunnos","Flesh Golem","Solar","Young Gold Dragon","Julunggali","Gold Dragon"]}
+{"spell":"blurred movement","creatures":["Astral Dragon"]}
+{"spell":"thought shield II","creatures":["Astral Dragon","Su"]}
+{"spell":"giant vermin","creatures":["Azruverda","Coloxus","Tyrant Jelly","Thriae Queen"]}
+{"spell":"condensed ether","creatures":["Ether Drake","Vishap","Astral Dragon"]}
+{"spell":"vanish","creatures":["Pipefox","Wayang","Lunar Dragon","Clockwork Dragon","Svartalfar"]}
+{"spell":"obscuring mist","creatures":["Shen","Nuckelavee","Fungus Leshy","Desert Drake","Adult Black Dragon","Ghaele","Bisha ga tsuku","Brine Dragon","Rokurokubi","Nightmare","Worm that Walks","Bokrug","Draugr","Marid","Young Bronze Dragon","Crone queen","Young Black Dragon","Fungal Nymph","Fastachee","Couatl","Bronze Dragon","Apkallu","Penanggalen","Thunderbird","Lunar Dragon","Cold Rider","LUNAR NAGA","Nymph","Young Copper Dragon","Trench Mist","Cloud Giant","Forest Dragon","Balisse","Lava Drake","Drowning Devil (Sarglagon)","Flame Drake","Ancient Brass Dragon","Ketesthius"]}
+{"spell":"curse water","creatures":["Drowning Devil (Sarglagon)","Aghash"]}
+{"spell":"agonize","creatures":["Astral Dragon"]}
+{"spell":"greater polymorph","creatures":["Brine Dragon","Elohim"]}
+{"spell":"power word stun","creatures":["Humbaba","Cernunnos","Balor","Planetar","Solar","Scylla","Adhukait","Glabrezu","Dagon","Balisse","Lemure"]}
+{"spell":"enshroud thoughts","creatures":["Apkallu","Manu"]}
+{"spell":"tree shape","creatures":["Fungus Leshy","Green Hag","Flytrap Leshy","Yangethe","Dryad","Fastachee","Jinushigami","Nymph","Tunche","Hamadryad","Sard","Jotund Troll"]}
+{"spell":"misdirection","creatures":["Adult Red Dragon","Mothman","Dandasuka","Barghest","Aghash","Thriae Queen","Greater Barghest"]}
+{"spell":"gaseous form","creatures":["Bogeyman","Brine Dragon","Efreeti","Blood Hag","Marid","Nue","Omox","Harbinger Archon","Couatl","Kirin","Shaggy Demodand","Fire Yai","Belker","Ogre Mage","Forest Dragon","Vampire","Djinni","Drowning Devil (Sarglagon)","Sayona","Astral Dragon","Aghash","Hezrou"]}
+{"spell":"inflict light wounds","creatures":["Brine Dragon","Augur"]}
+{"spell":"hold animal","creatures":["Cat Lord","Hamadryad"]}
+{"spell":"greater false life","creatures":["Astral Dragon"]}
+{"spell":"summon swarm","creatures":["Adult Black Dragon","Azruverda","Worm that Walks","Fungal Nymph","Apocalypse Locust","Ratling","Forlarren","Immortal Ichor","Derghodaemon","Accuser Devil (Zebub)","Kikimora","Spirit Naga","Devilbound Sorcerer"]}
+{"spell":"Bleed","creatures":["Graven Guardian"]}
+{"spell":"bestow curse","creatures":["Theletos","Androsphinx","Green Hag","Seaweed Siren","Marsh Giant","Mummy Lord","Cernunnos","Fext","Crone queen","Hekatonkheires","Lich","Tzitzimitl","Vilderavn","Dorvae","Forest Dragon","Devourer","Aoandon","Julunggali","Gorynych","Catrina","Blightspawn","Jorogumo","Aghash","Demilich","Norn","Danava","Devilbound Sorcerer","Titan, Elysian","Contract Devil"]}
+{"spell":"animal trance","creatures":["Bhuta","Leanan Sidhe","Sangoi"]}
+{"spell":"disintegrate","creatures":["Mummified Gynosphinx","Clay Golem","Phoenix","Cernunnos","Worm that Walks","Bokrug","Galvo","Adult Green Dragon","Pleroma","Marut","Iathavos","Adhukait","Esipil","Elohim","Lunar Dragon","Fire Yai","Olethrodaemon","Forest Dragon","Hundun","Gray Goo","Astral Dragon","Aghash","Soulbound Shell","Titan, Elysian"]}
+{"spell":"Vanish","creatures":["Fey Giant Toad"]}
+{"spell":"Remove disease","creatures":["Pickled Punk","Death Dog","Wolf-In-Sheep's-Clothing","Thriae Queen","Half-Celestial Unicorn"]}
+{"spell":"vortex","creatures":["Cliff Giant","Dagon","Forest Dragon"]}
+{"spell":"deja vu","creatures":["Etiainen","Vishap","Astral Dragon"]}
+{"spell":"true resurrection","creatures":["Bokrug","Agyra","Red Wyrm Ravener","Bone Golem","Iathavos","Nemhain","Jinushigami","Manu","Dandasuka","Catrina","Ancient Green Dragon","Wysp","Demilich","Titan, Elysian","Soul Eater"]}
+{"spell":"daze","creatures":["Contemplative","Derro","Lamia Matriarch","Broken Soul Lillend","Guardian Naga","Aranea","Changeling","Wyvaran","Couatl","Dark Naga","Sprite","LUNAR NAGA","Carbuncle","Forest Dragon","Dandasuka","Lillend","Gathlain","Kitsune","Drider","Formian Myrmarch","Spirit Naga"]}
+{"spell":"deathwatch","creatures":["Taniniver","Abrikandilu","Samsaran","Leukodaemon","Akhana","Jinushigami","Crucidaemon","Elohim","Einherji","Augur","Saxra","Papinijuwari","Catrina","Death Coach","Apostate Devil (Deimavigga)","Astradaemon","Pukwudgie","Valkyrie"]}
+{"spell":"ethereal fists","creatures":["Crystal Golem"]}
+{"spell":"True resurrection","creatures":["Wendigo"]}
+{"spell":"beast shape I","creatures":["Gancanagh","Swan Maiden","Domovoi","Encantado","Ghul","Imp"]}
+{"spell":"Burrow","creatures":["Unfettered Eidolon"]}
+{"spell":"fire storm","creatures":["Phoenix","Balor","Blood Hag","Planetar","Solar","Brijidine","Witchfire"]}
+{"spell":"major curse","creatures":["Guardian Dragon"]}
+{"spell":"haste","creatures":["Mummified Gynosphinx","Garuda","Brine Dragon","Lamia Matriarch","Human Zombie","Cernunnos","Adult Red Dragon","Adult Green Dragon","Red Wyrm Ravener","Coloxus","Revenant","Axiomite","Young Red Dragon","Adhukait","Bandersnatch","Graven Guardian","Jinushigami","Tzitzimitl","Lunar Dragon","Baykok","Young Copper Dragon","Young Gold Dragon","Kalavakus","Adamantine Golem","Erlking","Hound of Tindalos","Clockwork Dragon","Forest Dragon","Dandasuka","Blood Golem","Chupacabra","Julunggali","Bythos","Adult Blue Dragon","Tanuki","Formian Myrmarch"]}
+{"spell":"waves of fatigue","creatures":["Nue","Planetar","Solar","Flesh Colossus","Lich","Winter Hag","Meladaemon","Forest Dragon","Aoandon","Astral Dragon","Aghash"]}
+{"spell":"putrefy food and drink","creatures":["Grimple"]}
+{"spell":"feeblemind","creatures":["Rokurokubi","Bokrug","Red Wyrm Ravener","Iathavos","Anunnaki","Popobala","Lunar Dragon","Dorvae","Nalfeshnee","Forest Dragon","Dandasuka","Nightmare Ettercap","Derghodaemon","Formian Myrmarch","Dybbuk"]}
+{"spell":"Detect magic","creatures":["Lunar Dragon"]}
+{"spell":"mirror image","creatures":["Shen","Gancanagh","Juggernaut","Serpentfolk","Brine Dragon","Cassisian","Lamia Matriarch","Cernunnos","Aranea","Adult Green Dragon","Vrock","Red Wyrm Ravener","Young Bronze Dragon","Homunculus","Harbinger Archon","Adhukait","Witchcrow","Esipil","Bronze Dragon","Glabrezu","Lunar Dragon","Bralani","LUNAR NAGA","Forest Dragon","Cloaker","Brownie","Soulsliver","Astral Dragon","Aghash","Soulbound Shell","Lamia","Young Green Dragon"]}
+{"spell":"Hallow","creatures":["Half-Celestial Unicorn"]}
+{"spell":"Ray of exhaustion","creatures":["Lunar Dragon"]}
+{"spell":"thought shield III","creatures":["Vishap","Psychemental"]}
+{"spell":"telempathic projection","creatures":["Vishap","Caller in Darkness"]}
+{"spell":"freedom","creatures":["Pleroma","Ancient Red Dragon","Titan, Elysian"]}
+{"spell":"wall of ectoplasm","creatures":["Vishap","Astral Dragon"]}
+{"spell":"plant shape III","creatures":["Doppeldrek"]}
+{"spell":"fabricate","creatures":["Cernunnos","Pleroma","Leprechaun","Leng Spider","Dagon"]}
+{"spell":"Repel metal or stone","creatures":["Forest Dragon"]}
+{"spell":"mass cure critical wounds","creatures":["Phoenix","Solar","Apkallu","Simurgh","Thriae Queen"]}
+{"spell":"sound burst","creatures":["Derro","Apkallu","Mobogo","Balisse","Lillend","Catrina","Formian Myrmarch","Thriae Queen"]}
+{"spell":"summon monster III","creatures":["Worm that Walks","Planetar","Couatl","Devilbound Sorcerer"]}
+{"spell":"produce flame","creatures":["Efreeti","Domovoi","Fungal Nymph","Nymph","Drowning Devil (Sarglagon)","Barbed Devil (Hamatula)","Pukwudgie","Contract Devil"]}
+{"spell":"rainbow pattern","creatures":["Shen","Shining Child","Brine Dragon","Adhukait","Young Copper Dragon","Forest Dragon","Abaia"]}
+{"spell":"forbiddance","creatures":["Pleroma","Apostate Devil (Deimavigga)"]}
+{"spell":"sending","creatures":["Bokrug","Marut","Hekatonkheires","Star-Spawn of Cthulhu","Young Copper Dragon","Hamadryad","Formian Myrmarch","Titan, Elysian","Contract Devil"]}
+{"spell":"destruction","creatures":["Humbaba","Brine Dragon","Pleroma","Shinigami","Solar","Drakainia"]}
+{"spell":"elemental body I","creatures":["Devilbound Sorcerer"]}
+{"spell":"hero's defiance","creatures":["Cernunnos"]}
+{"spell":"identify","creatures":["Pleroma","Copper Dragon","Lunar Dragon","Dandasuka","Lillend","Contract Devil"]}
+{"spell":"Screen","creatures":["Divine Guardian Hydra"]}
+{"spell":"wind wall","creatures":["Dwiergeth","Brine Dragon","Rokurokubi","Flying Polyp","Planetar","Solar","Young Silver Dragon","Apkallu","Storm Hag","Bralani","Forest Dragon","Balisse","Mephit","Isitoq","Silver Dragon"]}
+{"spell":"exquisite accompaniment","creatures":["Muse"]}
+{"spell":"retrocognition","creatures":["Manu"]}
+{"spell":"slipstream","creatures":["Brine Dragon"]}
+{"spell":"delayed blast fireball","creatures":["Brine Dragon","Flesh Colossus","Contract Devil"]}
+{"spell":"purify food and drink","creatures":["Androsphinx","Ghaele","Trumpet Archon","Cernunnos","Lammasu","Xanthos","Oceanid","Marid","Planetar","Solar","Fastachee","Apkallu","Jinushigami","Balisse","Tanuki","Ghoran"]}
+{"spell":"clairaudience/clairvoyance","creatures":["Mummified Gynosphinx","Green Hag","Pleroma","Divine Guardian Hydra","Quickwood","Popobala","Lunar Dragon","Argus","Sphinx (Gynosphinx)","Dandasuka","Graeae","Isitoq","Drider","Formian Myrmarch","Shemhazian","Devilbound Sorcerer"]}
+{"spell":"cone of cold","creatures":["Adult Black Dragon","Purrodaemon","Brine Dragon","Ice Devil (Gelugon)","Yuki-Onna","Air Veela","Red Wyrm Ravener","Marid","Crone queen","Iron Golem","Lich","Jinushigami","Winterwight","Winter Hag","Fire Yai","Dagon","Ogre Mage","Forest Dragon","Formian Myrmarch","Devilbound Sorcerer"]}
+{"spell":"lesser planar ally","creatures":["Shadow Mastiff","Gloomwing","Devourer","Accuser Devil (Zebub)"]}
+{"spell":"ghost sound","creatures":["Young White Dragon","Green Hag","Blue Dragon","Bogeyman","Contemplative","Rakshasa","Young Blue Dragon","Brine Dragon","Derro","Rokurokubi","Wayang","Lamia Matriarch","Hobkins","Broken Soul Lillend","Aranea","Adult Green Dragon","Ancient Black Dragon","Samsaran","Etiainen","Muse","Clockwork Goliath","Brass Dragon","Satyr","Copper Dragon","Leprechaun","Berbalang","Shabti","Popobala","Cold Rider","Mothman","Young Copper Dragon","Ancient Bronze Dragon","Forest Dragon","Balisse","Dandasuka","Gathlain","Faerie Dragon","Koto-furunishi","Vouivre","Lurker in Light","Adult Blue Dragon","Faun","Grimple","Crysmal","Astral Dragon","Lorelei","Death Coach","Drider","Witchfire","Young Brass Dragon","Devilbound Sorcerer","Young Green Dragon"]}
+{"spell":"interplanetary teleport","creatures":["Bokrug","Xanthos"]}
+{"spell":"thorny entanglement","creatures":["Fastachee"]}
+{"spell":"bungle","creatures":["Clockwork Dragon"]}
+{"spell":"dream voyage","creatures":["Lotus Tree","Astral Dragon"]}
+{"spell":"greater create demiplane","creatures":["Guardian Dragon"]}
+{"spell":"flame blade","creatures":["Fungal Nymph","Nymph","Forlarren"]}
+{"spell":"shocking grasp","creatures":["Garuda","Rokurokubi","Taxidermic Grizzly Bear","Lunar Dragon","Clockwork Dragon","Forest Dragon"]}
+{"spell":"Commune","creatures":["Divine Guardian Hydra"]}
+{"spell":"protection from arrows","creatures":["Garuda","Clockwork Dragon","Astral Dragon"]}
+{"spell":"mind fog","creatures":["Seugathi","Alraune","Young Bronze Dragon","Coloxus","Syricta","Mothman","Young Copper Dragon","Forest Dragon","Dandasuka","Immortal Ichor","Astral Dragon","Apostate Devil (Deimavigga)"]}
+{"spell":"reverse gravity","creatures":["Bokrug","Adult Gold Dragon","Glabrezu","Young Copper Dragon"]}
+{"spell":"Greater dispel magic","creatures":["Disenchanter"]}
+{"spell":"freedom of movement","creatures":["Gancanagh","Thulgant","Juggernaut","Deep One","Cernunnos","Cliff Giant","Bokrug","Ice Linnorm","Pleroma","Clockwork Goliath","Anemos","Cervinal","Scylla","Iathavos","Adhukait","Young Silver Dragon","Fastachee","Couatl","Apkallu","Crag Linnorm","Leng Spider","Frost Giant","Cold Rider","Einherji","Fire Yai","Cetus","Dagon","Cairn Linnorm","Forest Dragon","Balisse","Dandasuka","Manitou","Glaistig","Spider Eater","Drowning Devil (Sarglagon)","Catrina","Drakainia","Blightspawn","Astral Dragon","Tarn Linnorm","Hollow Serpent"]}
+{"spell":"diminish plants","creatures":["Nuckelavee","Fungal Nymph","Colour Out of Space","Tunche","Meladaemon","Blightspawn","Annihilator"]}
+{"spell":"blindness/deafness","creatures":["Brine Dragon","Cernunnos","Broken Soul Lillend","Svirfneblin","Lunar Dragon","Clockwork Dragon","Lurker in Light","Aghash"]}
+{"spell":"changestaff","creatures":["Hamadryad"]}
+{"spell":"illusory script","creatures":["Apostate Devil (Deimavigga)"]}
+{"spell":"mass heal","creatures":["Exscinder","Solar","Balisse","Thriae Queen","Danava"]}
+{"spell":"restoration","creatures":["Ghaele","Shedu","Pleroma","Totenmaske","Akhana","Young Silver Dragon","Jinushigami","Young Gold Dragon","Augur","Manitou","Thriae Queen"]}
+{"spell":"flare burst","creatures":["Brine Dragon"]}
+{"spell":"Water walk","creatures":["Forest Dragon"]}
+{"spell":"heroism","creatures":["Adult Black Dragon","Vrock","Young Bronze Dragon","Clockwork Goliath","Lunar Dragon","Soulbound Doll","Formian Myrmarch","Young Brass Dragon"]}
+{"spell":"scintillating pattern","creatures":["Shining Child"]}
+{"spell":"align weapon","creatures":["Ghaele","Mummy Lord","Pleroma","Planetar","Solar","Harbinger Archon","Urdefhan","Drowning Devil (Sarglagon)","Aghash"]}
+{"spell":"True seeing","creatures":["Bokrug","Caryatid Column"]}
+{"spell":"mindwipe","creatures":["Manu","Lotus Tree","Vishap","Psychemental"]}
+{"spell":"minor image","creatures":["Shen","Decapus","Rakshasa","Young Blue Dragon","Brine Dragon","Ancient Black Dragon","Crucidaemon","Lunar Dragon","Pooka","Denizen of Leng","Adult Blue Dragon","Erinyes","Aghash"]}
+{"spell":"mass inflict serious wounds","creatures":["Shemhazian"]}
+{"spell":"<i>dimension door</i>","creatures":["Augnagar"]}
+{"spell":"spark","creatures":["Brine Dragon"]}
+{"spell":"corrosive touch","creatures":["Svartalfar"]}
+{"spell":"beast shape III","creatures":["Shen","Akhlut","Vilderavn"]}
+{"spell":"haunting mists","creatures":["Astral Dragon"]}
+{"spell":"deep slumber","creatures":["Shen","Brine Dragon","Lamia Matriarch","Thriae Constructor","Night Hag","Dryad","Blood Hag","Swan Maiden","Animate Dream","Manananggal","Cold Rider","Fire Yai","Huldra","Baku","Ogre Mage","Clockwork Dragon","Nightmare Ettercap","Soulbound Doll","Hamadryad","Siren","Astral Dragon","Kikimora","Apostate Devil (Deimavigga)","Lamia"]}
+{"spell":"anti-incorporeal shell","creatures":["Astral Dragon"]}
+{"spell":"Dancing lights","creatures":["Lunar Dragon","Fey Giant Toad"]}
+{"spell":"magic missile","creatures":["Adult Black Dragon","Seugathi","Contemplative","Rakshasa","Brine Dragon","Lamia Matriarch","Adult Red Dragon","Guardian Naga","Night Hag","Adult Green Dragon","Red Wyrm Ravener","Crone queen","Copper Dragon","Iathavos","Young Red Dragon","Lich","Dark Naga","Lunar Dragon","Human Juju Zombie","LUNAR NAGA","Will-o'-wisp","Clockwork Dragon","Meladaemon","Forest Dragon","Vampire","Dandasuka","Neh-Thalggu","Mephit","Gathlain","Ostiarius","Tarrasque","Astral Dragon","Drider","Formian Myrmarch","Spirit Naga","Witchwyrd","Devilbound Sorcerer"]}
+{"spell":"mislead","creatures":["Brine Dragon","Young Bronze Dragon","Lunar Dragon","Mothman","Young Copper Dragon","Gorynych","Adult Blue Dragon"]}
+{"spell":"memory lapse","creatures":["Cytillipede","Liminal Sprite","Lunar Dragon"]}
+{"spell":"symbol of strife","creatures":["Bokrug"]}
+{"spell":"Summon monster IX","creatures":["Half-Fiend Minotaur","Half-Celestial Unicorn"]}
+{"spell":"command undead","creatures":["Brine Dragon","Shredskin","Sayona","Lorelei","Pukwudgie"]}
+{"spell":"invisibility sphere","creatures":["Greater Barghest"]}
+{"spell":"detect mindscape","creatures":["Apkallu","Vishap"]}
+{"spell":"terrible remorse","creatures":["Griefgall","Broken Soul Lillend"]}
+{"spell":"divine favor","creatures":["Androsphinx","Ghaele","Mummy Lord","Drow Noble","Lamia Matriarch","Trumpet Archon","Cernunnos","Guardian Naga","Lammasu","Solar","Undine","Young Silver Dragon","Apkallu","Drow","Young Gold Dragon","Balisse","Tanuki","Silver Dragon","Gold Dragon","Spirit Naga"]}
+{"spell":"speak with dead","creatures":["Androsphinx","Green Hag","Fext","Blood Hag","Planetar","Solar","Apkallu","Balisse","Graeae","Sangoi","Catrina","Astral Dragon","Lorelei","Aghash","Apostate Devil (Deimavigga)","Thriae Queen"]}
+{"spell":"horrid wilting","creatures":["Taniniver","Brine Dragon","Bokrug","Pleroma","Red Wyrm Ravener","Iathavos","Meladaemon","Saxra","Aghash","Hollow Serpent"]}
+{"spell":"knock","creatures":["Rokurokubi","Broken Soul Lillend","Divine Guardian Hydra","Dandasuka","Lillend"]}
+{"spell":"hypnotism","creatures":["Wayang","Changeling","Pixie","Lunar Dragon","Forest Dragon","Devourer"]}
+{"spell":"stinking cloud","creatures":["Gancanagh","Piscodaemon","Brine Dragon","Worm that Walks","Omox","Penanggalen","Shaggy Demodand","Clockwork Dragon","Forest Dragon","Mephit","Aghash","Dretch","Soulbound Shell","Apostate Devil (Deimavigga)","Devilbound Sorcerer"]}
+{"spell":"gallant inspiration","creatures":["Muse"]}
+{"spell":"rest eternal","creatures":["Elohim","Vilderavn","Catrina"]}
+{"spell":"deeper darkness","creatures":["Shining Child","Juggernaut","Mummy Lord","Drow Noble","Pleroma","Hydrodaemon","Vrolikai","Eclipse Giant","Adhukait","Dark Stalker","Esipil","Tzitzimitl","Lunar Dragon","Fire Yai","Stormghost","Caligni","Nabasu","Ankou","Mandragora","Meladaemon","Ostiarius","Sceaduinar","Dark Creeper","Aghash","Shadow Demon","Dark Caller","Drider","Apostate Devil (Deimavigga)","Owb","Lipika"]}
+{"spell":"sunburst","creatures":["Cernunnos","Adult Copper Dragon","Young Gold Dragon"]}
+{"spell":"feather step","creatures":["Gathlain","Mngwa"]}
+{"spell":"mass icy prison","creatures":["Dagon"]}
+{"spell":"hypercognition","creatures":["Apkallu","Vishap","Astral Dragon"]}
+{"spell":"summon monster VII","creatures":["Solar"]}
+{"spell":"Call lightning","creatures":["Forest Dragon"]}
+{"spell":"shield of faith","creatures":["Androsphinx","Ghaele","Trumpet Archon","Planetar","Wyvaran","Solar","Apkallu","Young Gold Dragon","Balisse","Dandasuka","Gold Dragon","Spirit Naga"]}
+{"spell":"holy word","creatures":["Exscinder","Ghaele","Cassisian","Cernunnos","Pleroma","Planetar","Solar","Young Silver Dragon","Astral Deva","Balisse","Devourer","Drowning Devil (Sarglagon)","Demilich"]}
+{"spell":"scorching ray","creatures":["Gancanagh","Brine Dragon","Guardian Naga","Air Veela","Efreeti","Blood Hag","Nosferatu","Peri","Lich","Couatl","Dark Naga","Kirin","Lunar Dragon","Fire Yai","LUNAR NAGA","Clockwork Dragon","Forest Dragon","Vampire","Dandasuka","Mephit","Drowning Devil (Sarglagon)","Aghash","Lemure","Barbed Devil (Hamatula)","Devilbound Sorcerer","Contract Devil"]}
+{"spell":"shadow step","creatures":["Shadow Roper","Svartalfar","Shadow Collector","Owb"]}
+{"spell":"charm animal","creatures":["Cat Lord","Bhuta","Jinushigami","Nymph","Mobogo","Vouivre","Qallupilluk"]}
+{"spell":"fluid form","creatures":["Brine Dragon"]}
+{"spell":"water walk","creatures":["Shen","Cernunnos","Hydrodaemon","Marid","Akhlut","Kirin","Fire Yai","Forest Dragon","Rusalka","Fossegrim","Aghash","Retriever","Danava"]}
+{"spell":"instigate psychic duel","creatures":["Vishap"]}
+{"spell":"greater contagion","creatures":["Mummy Lord"]}
+{"spell":"cloudkill","creatures":["Brine Dragon","Worm that Walks","Bokrug","Crystal Golem","Flesh Colossus","Adhukait","Guardian Dragon","Lich","Shaggy Demodand","Trench Mist","Forest Dragon","Stone Golem","Soulbound Shell","Devilbound Sorcerer"]}
+{"spell":"soften earth and stone","creatures":["Shaitan","Cythnigot","Fastachee","Mobogo","Forest Dragon","Mephit","Guecubu","Brijidine","Annihilator"]}
+{"spell":"arcane eye","creatures":["Adult Black Dragon","Homunculus","Argus","LUNAR NAGA","Catrina","Astral Dragon","Contract Devil"]}
+{"spell":"Unholy blight","creatures":["Half-Fiend Minotaur"]}
+{"spell":"aid","creatures":["Ghaele","Shield Archon","Cassisian","Trumpet Archon","Solar","Harbinger Archon","Lantern Archon","Peri","Young Gold Dragon","Astral Deva","Jyoti","Hound Archon","Gold Dragon","Half-Celestial Unicorn","Valkyrie"]}
+{"spell":"orb of the void","creatures":["Hundun"]}
+{"spell":"foresight","creatures":["Cernunnos","Adult Copper Dragon","Iathavos","Jinushigami","Julunggali","Norn","Thriae Queen"]}
+{"spell":"dust of twilight","creatures":["Brine Dragon"]}
+{"spell":"shadow walk","creatures":["Brine Dragon","Shadow Roper","Lunar Dragon","Mothman","Augur","Nightmare Ettercap","Ostiarius","Fetchling (Kayal)","Shadow Collector"]}
+{"spell":"status","creatures":["Argus","Nymph","Mindslaver Mold","Thrasfyr"]}
+{"spell":"id Insinuation I","creatures":["Astral Dragon"]}
+{"spell":"unholy aura","creatures":["Purrodaemon","Abrikandilu","Balor","Pleroma","Devastator","Nalfeshnee","Olethrodaemon","Dagon","Lemure","Marilith"]}
+{"spell":"stoneskin","creatures":["Shaitan","Adult Red Dragon","Adult Green Dragon","Air Veela","Young Bronze Dragon","Lunar Dragon","Young Copper Dragon","Young Gold Dragon","Gorgon","Adamantine Golem","Adult Blue Dragon","Brijidine","Astral Dragon","Soulbound Shell","Devilbound Sorcerer"]}
+{"spell":"transport via plants","creatures":["Fastachee","Glaistig","Sard"]}
+{"spell":"alter winds","creatures":["Brine Dragon","Flying Polyp","Stormghost","Chuspiki"]}
+{"spell":"eyebite","creatures":["Taniniver","Brine Dragon","Yuki-Onna","Popobala","Lunar Dragon","Forest Dragon"]}
+{"spell":"mind swap","creatures":["Brain Mole"]}
+{"spell":"animate plants","creatures":["Lunar Dragon","Lotus Tree","Erlking","Forest Dragon"]}
+{"spell":"node of blasting","creatures":["Vishap"]}
+{"spell":"cure moderate wounds","creatures":["Intellect Devourer","Gancanagh","Androsphinx","Shedu","Trumpet Archon","Cernunnos","Cliff Giant","Lammasu","Planetar","Solar","Bagiennik","Young Silver Dragon","Fastachee","Couatl","Jinushigami","Unicorn","Nymph","Young Gold Dragon","Balisse","Dandasuka","Egregore","Silver Dragon","Gold Dragon","Half-Celestial Unicorn"]}
+{"spell":"unwitting ally","creatures":["Astral Dragon"]}
+{"spell":"mass inflict moderate wounds","creatures":["Hundun"]}
+{"spell":"call lightning","creatures":["Cernunnos","Fungal Nymph","Fastachee","Frost Giant","Nalfeshnee","Nymph","Forest Dragon","Drowning Devil (Sarglagon)"]}
+{"spell":"Soften earth and stone","creatures":["Blood Golem"]}
+{"spell":"tactical acumen","creatures":["Muse"]}
+{"spell":"control weather","creatures":["Shen","Green Hag","Juggernaut","Brine Dragon","Cernunnos","Yuki-Onna","Bokrug","Blood Hag","Agyra","Oceanid","Flying Polyp","Wendigo","Adult Gold Dragon","Anemos","Akhlut","Scylla","Comozant Wyrd","Young Silver Dragon","Ancient Red Dragon","Adult White Dragon","Winterwight","Encantado","Winter Hag","Elohim","Thunderbird","Lunar Dragon","Kraken","Frost Giant","Khala","Cetus","Stormghost","Dagon","Balisse","Abaia","Adult Brass Dragon","Julunggali","Sangoi","Sard","Young Brass Dragon","Ketesthius"]}
+{"spell":"fire shield","creatures":["Brine Dragon","Adult Red Dragon","Air Veela","Peri","Lich","Lunar Dragon","Khala","Fire Yai","Drowning Devil (Sarglagon)","Adult Blue Dragon","Accuser Devil (Zebub)","Soulbound Shell","Devilbound Sorcerer"]}
+{"spell":"psychic image","creatures":["Manu","Lotus Tree"]}
+{"spell":"Time stop","creatures":["Lunar Dragon"]}
+{"spell":"flesh to stone","creatures":["Thulgant","Almiraj","Bone Golem","Jinushigami","Cockatrice","Gorgon","Forest Dragon","Glaistig","Basilisk"]}
+{"spell":"Poison","creatures":["Cat Lord","Magma Ooze","Bandersnatch","Dorvae","Half-Fiend Minotaur","Necrocraft","Yaoguai","Drakainia","Jinmenju"]}
+{"spell":"greater scrying","creatures":["Exscinder","Shinigami","Marut","Cervinal","Hekatonkheires","Hound of Tindalos","Balisse","Drowning Devil (Sarglagon)","Vishap","Accuser Devil (Zebub)","Lemure","Thriae Queen","Danava","Titan, Elysian","Contract Devil"]}
+{"spell":"animate dead","creatures":["Green Hag","Mummy Lord","Taniniver","Human Zombie","Human Skeleton","Zuvembie","Living Wall","Bone Golem","Flesh Colossus","Graveknight","Thanadaemon","Tzitzimitl","Ice Golem","Necrocraft","Adamantine Golem","Wyrmwraith","Devourer","Blood Golem","Beheaded","Isitoq","Aghash","Pukwudgie"]}
+{"spell":"mass invisibility","creatures":["Dandasuka"]}
+{"spell":"Banishment","creatures":["Divine Guardian Hydra"]}
+{"spell":"remove curse","creatures":["Theletos","Mummified Gynosphinx","Attic Whisperer","Phoenix","Sinspawn","Cassisian","Hobkins","Turul","Amarok","Planetar","Solar","Animate Dream","Jinushigami","Sphinx (Gynosphinx)","Astral Deva","Balisse","Witchfire","Owb"]}
+{"spell":"hide from undead","creatures":["Sceaduinar","Sangoi","Catrina"]}
+{"spell":"fog cloud","creatures":["Young White Dragon","White Dragon","Marsh Giant","Brine Dragon","Roiling Oil","Annis Hag","Cernunnos","Worm that Walks","Nue","Young Bronze Dragon","Adlet","Adult Gold Dragon","Scylla","Dark Stalker","Guardian Dragon","Young Silver Dragon","Bronze Dragon","Ancient Red Dragon","Winter Hag","Thunderbird","Dragon Horse","Shaggy Demodand","Stormghost","Mobogo","Hound of Tindalos","Cloud Giant","Forest Dragon","Wakandagi","Rusalka","Adult Brass Dragon","Drowning Devil (Sarglagon)","Sayona","Lorelei","Silver Dragon","Demilich"]}
+{"spell":"sleep","creatures":["Rokurokubi","Aranea","Changeling","Sandman","Satyr","Fire Yai","Baku","Tooth Fairy","Pooka","Clockwork Dragon","Forest Dragon","Lillend","Faerie Dragon","Kitsune","Faun","Fuath"]}
+{"spell":"detect secret doors","creatures":["Brine Dragon","Thriae Constructor","Thriae Queen"]}
+{"spell":"demand","creatures":["Cernunnos","Bokrug","Adhukait","Star-Spawn of Cthulhu","Fire Yai","Dagon","Accuser Devil (Zebub)"]}
+{"spell":"lesser planar binding","creatures":["Bokrug","Shadow Mastiff","Gloomwing","Accuser Devil (Zebub)"]}
+{"spell":"Hydraulic push","creatures":["Undine"]}
+{"spell":"summon monster IX","creatures":["Anemos"]}
+{"spell":"alarm","creatures":["Young White Dragon","Adult Black Dragon","Young Blue Dragon","Brine Dragon","Adult Red Dragon","Young Bronze Dragon","Brass Dragon","Young Black Dragon","Copper Dragon","Young Red Dragon","Divine Guardian Hydra","Guardian Dragon","Bronze Dragon","Jinushigami","Lunar Dragon","Young Gold Dragon","Ancient Bronze Dragon","Soulbound Mannequin","Ancient Gold Dragon","Adult Blue Dragon","Silver Dragon","Gold Dragon","Young Brass Dragon","Ancient Brass Dragon"]}
+{"spell":"inflict critical wounds","creatures":["Crucidaemon","Augur"]}
+{"spell":"irresistible dance","creatures":["Muse","Pixie","Glaistig"]}
+{"spell":"astral projection","creatures":["Bokrug","Pleroma","Dagon","Shulsaga","Yithian","Astradaemon"]}
+{"spell":"forbid action","creatures":["Astral Dragon"]}
+{"spell":"murderous command","creatures":["Animate Hair","Maenad"]}
+{"spell":"command","creatures":["Theletos","Ghaele","Cernunnos","Lammasu","Shoggti","Samsaran","Aasimar","Graven Guardian","Scarecrow","Penanggalen","Fire Yai","Kalavakus","Dandasuka","Kolyarut","Catrina"]}
+{"spell":"ghoul touch","creatures":["Rokurokubi","Zuvembie","Necrophidius","Devourer"]}
+{"spell":"Antipathy","creatures":["Divine Guardian Hydra"]}
+{"spell":"plague storm","creatures":["Storm Hag","Stormghost"]}
+{"spell":"commune with nature","creatures":["Fungus Leshy","Alraune","Cliff Giant","Adlet","Gegenees","Fastachee","Seilenos","Jinushigami","Formian Myrmarch"]}
+{"spell":"summon monster VI","creatures":["Worm that Walks","Nereid","Devilbound Sorcerer"]}
+{"spell":"faerie fire","creatures":["Drow Noble","Azruverda","Cervinal","Fungal Nymph","Fastachee","Lunar Dragon","Drow","Spawn of Yog-Sothoth","Lampad","Drider","Witchfire","Fey Giant Toad"]}
+{"spell":"etheric shards ","creatures":["Vishap"]}
+{"spell":"Augury","creatures":["Divine Guardian Hydra"]}
+{"spell":"greater planar ally","creatures":["Retriever","Danava","Titan, Elysian"]}
+{"spell":"Calm emotions","creatures":["Sinspawn","Forest Dragon"]}
+{"spell":"catatonia","creatures":["Manu"]}
+{"spell":"dictum","creatures":["Pleroma","Marut","Solar","Accuser Devil (Zebub)"]}
+{"spell":"frozen note","creatures":["Muse"]}
+{"spell":"poison","creatures":["Omox","Drowning Devil (Sarglagon)","Neothelid","Thriae Queen","Young Brass Dragon"]}
+{"spell":"protection from law","creatures":["Drow Noble","Shoggti","Chernobue","Erlking","Nyogoth"]}
+{"spell":"brilliant inspiration","creatures":["Muse"]}
+{"spell":"transformation","creatures":["Brine Dragon","Forest Dragon"]}
+{"spell":"Prismatic spray","creatures":["Forest Dragon"]}
+{"spell":"vengeful outrage","creatures":["Ophiotaurus","Seilenos"]}
+{"spell":"blaze of glory","creatures":["Cernunnos"]}
+{"spell":"ray of exhaustion","creatures":["Zuvembie","Lunar Dragon","Ankou","Clockwork Dragon","Graeae","Svartalfar","Grimslake"]}
+{"spell":"greater dispel magic","creatures":["Shen","Shining Child","Thulgant","Phoenix","Brine Dragon","Cernunnos","Turul","Vemerak","Adult Red Dragon","Bokrug","Lukwata","Balor","Red Wyrm Ravener","Young Bronze Dragon","Muse","Planetar","Solar","Zelekhut","Scylla","Iathavos","Hekatonkheires","Guardian Dragon","Anunnaki","Young Silver Dragon","Fastachee","Esipil","Apkallu","Winterwight","Elohim","Lunar Dragon","Shaggy Demodand","Fire Yai","Nalfeshnee","Banshee","Dagon","Young Gold Dragon","Lotus Tree","Xacarba","Balisse","Dandasuka","Wyrmwraith","Gorynych","Hundun","Catrina","Gristly Demodand","Accuser Devil (Zebub)","Astral Dragon","Lemure","Norn","Young Brass Dragon","Danava","Titan, Elysian"]}
+{"spell":"glitterdust","creatures":["Adult Black Dragon","Shaitan","Alraune","Brine Dragon","Worm that Walks","Swan Maiden","Copper Dragon","Penanggalen","Young Copper Dragon","Clockwork Dragon","Forest Dragon","Spawn of Yog-Sothoth","Mephit","Grimple","Soulbound Shell","Devilbound Sorcerer","Fey Giant Toad"]}
+{"spell":"mass inflict critical wounds","creatures":["Augur"]}
+{"spell":"sympathetic vibration","creatures":["Forest Dragon"]}
+{"spell":"Burning hands","creatures":["Brine Dragon","Ifrit"]}
+{"spell":"protection from chaos","creatures":["Couatl","Kolyarut","Drowning Devil (Sarglagon)"]}
+{"spell":"boiling blood","creatures":["Blood Golem"]}
+{"spell":"polar ray","creatures":["Crone queen","Winterwight","Khala","Fire Yai","Dagon"]}
+{"spell":"dream travel","creatures":["Astral Dragon"]}
+{"spell":"meteor swarm","creatures":["Bokrug","Flesh Colossus","Lemure","Titan, Elysian"]}
+{"spell":"wrath","creatures":["Catrina"]}
+{"spell":"summon nature's ally V","creatures":["Flytrap Leshy","Oceanid","Girtablilu","Brijidine","Jorogumo"]}
+{"spell":"lesser geas","creatures":["Theletos","Brine Dragon","Myceloid","Dorvae","Caryatid Column","Soulbound Mannequin","Adamantine Golem","Forest Dragon","Soulbound Doll","Blood Golem","Gorynych"]}
+{"spell":"Dispel chaos","creatures":["Dagon"]}
+{"spell":"owl's wisdom","creatures":["Trumpet Archon"]}
+{"spell":"mad hallucination","creatures":["Maenad"]}
+{"spell":"timely inspiration","creatures":["Muse"]}
+{"spell":"ball lightning","creatures":["Brine Dragon","Air Veela"]}
+{"spell":"Deep slumber","creatures":["Fey Giant Toad"]}
+{"spell":"arcane sight","creatures":["Brine Dragon","Tzitzimitl","Leng Spider","Argus","Chernobue","Xacarba","Abaia","Graeae","Wizard's Shackle"]}
+{"spell":"Project image","creatures":["Brine Dragon","Fey Giant Toad"]}
+{"spell":"thoughtsense","creatures":["Crystal Golem","Lotus Tree","Vishap","Astral Dragon"]}
+{"spell":"wall of nausea","creatures":["Astral Dragon"]}
+{"spell":"tower of <a href=\"../coreRulebook/feats.html#iron-will\">Iron Will","creatures":["Apkallu","Astral Dragon"]}
+{"spell":"minor creation","creatures":["Fire Yai","Soulbound Mannequin","Soulbound Doll","Blood Golem"]}
+{"spell":"shillelagh","creatures":["Leprechaun"]}
+{"spell":"blessing of fervor","creatures":["Exscinder"]}
+{"spell":"frost fall","creatures":["Crone queen"]}
+{"spell":"wall of force","creatures":["Shining Child","Adult Black Dragon","Ghaele","Brine Dragon","Cernunnos","Adult Red Dragon","Red Wyrm Ravener","Marut","Zelekhut","Young Silver Dragon","Nemhain","Lunar Dragon","Olethrodaemon","Augur","Astral Dragon","Annihilator"]}
+{"spell":"acid splash","creatures":["Young White Dragon","Brine Dragon","Wyvaran","LUNAR NAGA","Forest Dragon","Vampire","Dandasuka","Ifrit","Neh-Thalggu","Soulbound Shell","Devilbound Sorcerer"]}
+{"spell":"babble","creatures":["Manu"]}
+{"spell":"giant form II","creatures":["Fire Yai","Norn"]}
+{"spell":"time stop","creatures":["Cernunnos","Red Wyrm Ravener","Adhukait","Jinushigami","Dagon","Manu","Dandasuka","Norn","Danava"]}
+{"spell":"sonic thrust","creatures":["Hyakume"]}
+{"spell":"mind thrust II","creatures":["Gray","Crystal Golem","Brain Mole","Astral Dragon"]}
+{"spell":"<a href=\"../coreRulebook/feats.html#command-undead\">Command Undead","creatures":["Wyrmwraith"]}
+{"spell":"Holy smite","creatures":["Demilich","Half-Celestial Unicorn"]}
+{"spell":"fire snake","creatures":["Lunar Dragon"]}
+{"spell":"soul bind","creatures":["Night Hag","Shinigami","Wyrmwraith","Catrina","Danava","Valkyrie"]}
+{"spell":"magic circle against evil","creatures":["Shield Archon","Shedu","Trumpet Archon","Pleroma","Solar","Harbinger Archon","Couatl","Dagon","Guecubu","Hound Archon","Astral Dragon","Half-Celestial Unicorn"]}
+{"spell":"reduce person","creatures":["Intellect Devourer","Janni","Brine Dragon","Worm that Walks","Efreeti","Domovoi","Firbolg","Clockwork Dragon","Atomie"]}
+{"spell":"Tongues","creatures":["Forest Dragon"]}
+{"spell":"obscure object","creatures":["Lunar Dragon","Forest Dragon","Koto-furunishi"]}
+{"spell":"anticipate peril","creatures":["Lunar Dragon","Astral Dragon"]}
+{"spell":"insanity","creatures":["Seugathi","Bokrug","Scylla","Iathavos","Star-Spawn of Cthulhu","Crucidaemon","Leng Spider","Lunar Dragon","Dagon","Forest Dragon","Augur","Aghash"]}
+{"spell":"mind thrust V","creatures":["Caller in Darkness"]}
+{"spell":"fire seeds","creatures":["WickerMan"]}
+{"spell":"Protection from evil","creatures":["Warsworn","Half-Celestial Unicorn"]}
+{"spell":"psychic crush III","creatures":["Vishap"]}
+{"spell":"righteous vigor","creatures":["Cernunnos"]}
+{"spell":"polymorph","creatures":["Werewolf (Hybrid Form)","Brine Dragon","Cassisian","Adult Red Dragon","Adult Green Dragon","Werebat (Human Form)","Adult Gold Dragon","Adult Copper Dragon","WerewolF","Cacodaemon","Popobala","Werebear (Human Form)","Young Copper Dragon","Caryatid Column","Pooka","Jackalwere","Forest Dragon","Dandasuka","Doppelganger","Adult Brass Dragon","Julunggali","Nixie","Barghest","Aghash","Wererat (Hybrid Form)","Greater Barghest","Devilbound Sorcerer","Fey Giant Toad"]}
+{"spell":"synesthesia","creatures":["Lotus Tree"]}
+{"spell":"greater shadow conjuration","creatures":["Shen","Dandasuka"]}
+{"spell":"consecrate","creatures":["Trumpet Archon","Solar"]}
+{"spell":"cure critical wounds","creatures":["Phoenix","Turul","Solar","Cervinal","Fastachee","Ijiraq","Erlking","Blood Golem","Catrina"]}
+{"spell":"dispel good","creatures":["Mummy Lord","Pleroma","Horned Devil (Cornugon)","Drowning Devil (Sarglagon)","Accuser Devil (Zebub)","Apostate Devil (Deimavigga)","Devilbound Sorcerer"]}
+{"spell":"jump","creatures":["Carbuncle","Dandasuka"]}
+{"spell":"fireball","creatures":["Exscinder","Brine Dragon","Worm that Walks","Galvo","Adult Green Dragon","Efreeti","Dark Stalker","Peri","Lich","Horned Devil (Cornugon)","Jinushigami","Fire Yai","Clockwork Dragon","Forest Dragon","Vampire","Dandasuka","Drowning Devil (Sarglagon)","Flame Drake","Accuser Devil (Zebub)","Aghash","Lemure","Spirit Naga","Devilbound Sorcerer"]}
+{"spell":"whirlwind","creatures":["Juggernaut","Cernunnos","Flying Polyp","Adult White Dragon","Dagon","Sard"]}
+{"spell":"liveoak","creatures":["Zomok","Hamadryad"]}
+{"spell":"virtuoso performance","creatures":["Muse"]}
+{"spell":"mage's disjunction","creatures":["Cernunnos","Pleroma","Guardian Dragon","Elohim","Hundun","Aghash"]}
+{"spell":"miracle","creatures":["Derro","Cernunnos","Pleroma","Red Wyrm Ravener","Shinigami","Wendigo","Solar","Adult Copper Dragon","Iathavos","Adhukait","Akhana","Iku-turso","Dagon","Adamantine Golem","Devourer","Sceaduinar","Gashadokuro","Bythos","Catrina","Warsworn","Derghodaemon","Witchfire","Demilich","Norn","Devilbound Sorcerer","Contract Devil","Soul Eater"]}
+{"spell":"vomit swarm","creatures":["Esipil"]}
+{"spell":"divine vessel","creatures":["Forest Dragon"]}
+{"spell":"sift","creatures":["Catrina"]}
+{"spell":"raise dead","creatures":["Spectre","Wight","Ghaele","Trumpet Archon","Planetar","Ascomoid","Bone Golem","Akhana","Nemhain","Shabti","Duppy","Baykok","Mothman","Caligni","Julunggali","Soul Eater"]}
+{"spell":"forced quiet","creatures":["Kikimora"]}
+{"spell":"unnatural lust","creatures":["Harionago","Encantado","Fossegrim"]}
+{"spell":"contagious flame","creatures":["Brine Dragon"]}
+{"spell":"imbue with spell ability","creatures":["Juggernaut","Graven Guardian"]}
+{"spell":"contact other plane","creatures":["Androsphinx","Pleroma","Esipil","Graeae","Young Brass Dragon","Contract Devil"]}
+{"spell":"Nightmare","creatures":["Wendigo","Lunar Dragon"]}
+{"spell":"Vision","creatures":["Necrocraft"]}
+{"spell":"detect scrying","creatures":["Cervinal","Guardian Dragon","Argus"]}
+{"spell":"protection from energy","creatures":["Trumpet Archon","Worm that Walks","Solar","Fastachee","Lunar Dragon","LUNAR NAGA","Aghash","Devilbound Sorcerer"]}
+{"spell":"create food and water","creatures":["Janni","Pleroma","Young Bronze Dragon","Bronze Dragon","Apkallu","Kirin","Adult Brass Dragon","Djinni","Tanuki"]}
+{"spell":"paladin's sacrifice","creatures":["Cernunnos"]}
+{"spell":"heal","creatures":["Ghaele","Phoenix","Vegepygmy","Cassisian","Trumpet Archon","Hellwasp Swarm","Cernunnos","Balor","Gryph","Planetar","Solar","Iathavos","Hekatonkheires","Totenmaske","Young Silver Dragon","Jinushigami","Elohim","Wererat (Human Form)","Young Gold Dragon","Kalavakus","Adamantine Golem","Astral Deva","Augur","Dandasuka","Ecorche","Manitou","Yithian","Hamadryad","Spider Eater","Drowning Devil (Sarglagon)","Julunggali","Leaf Ray","Derghodaemon","Brijidine","Titan, Elysian","Valkyrie"]}
+{"spell":"Blight","creatures":["Lunar Dragon"]}
+{"spell":"guidance","creatures":["Androsphinx","Lammasu","Samsaran","Pleroma","Wyvaran","Undine","Aasimar","Fungal Nymph","Kirin","Nymph"]}
+{"spell":"Lesser restoration","creatures":["Gloomwing"]}
+{"spell":"Stone to flesh","creatures":["Brine Dragon"]}
+{"spell":"ego whip IV","creatures":["Vishap"]}
+{"spell":"Fog cloud","creatures":["Brine Dragon"]}
+{"spell":"Obscuring mist","creatures":["Brine Dragon"]}
+{"spell":"Alarm","creatures":["Divine Guardian Hydra"]}
+{"spell":"fear","creatures":["Lhaksharut","Adult Red Dragon","Pixie","Satyr","Zelekhut","Animate Dream","Scarecrow","Chaneque","Crucidaemon","Lunar Dragon","Manananggal","Shaggy Demodand","Soulbound Mannequin","Devourer","Erinyes","Derghodaemon","Nyogoth","Shadow Demon","Astradaemon","Devilbound Sorcerer"]}
+{"spell":"temporal stasis","creatures":["Thulgant","Tzitzimitl","Bythos"]}
+{"spell":"feast on fear","creatures":["Griefgall"]}
+{"spell":"animal messenger","creatures":["Cliff Giant"]}
+{"spell":"true strike","creatures":["Young White Dragon","Garuda","Adult Black Dragon","White Dragon","Yangethe","Young Blue Dragon","Brine Dragon","Cernunnos","Udaeus","Adult Red Dragon","Pleroma","Red Wyrm Ravener","Young Bronze Dragon","Axiomite","Young Red Dragon","Young Silver Dragon","Couatl","Bronze Dragon","Red Dragon","Lunar Dragon","Argus","LUNAR NAGA","Forest Dragon","Ancient Gold Dragon","Adult Blue Dragon","Astral Dragon","Aghash","Silver Dragon","Sphinx Colossus"]}
+{"spell":"wall of lava","creatures":["Brine Dragon","Jinushigami"]}
+{"spell":"desecrate","creatures":["Phoenix","Hydrodaemon","Graveknight","Thanadaemon","Dagon","Half-Fiend Minotaur"]}
+{"spell":"Dimension door","creatures":["Lunar Dragon"]}
+{"spell":"wall of thorns","creatures":["Zomok","Juggernaut","Alraune","Cernunnos","Guardian Dragon","Fastachee","Tunche","Augur"]}
+{"spell":"call lightning storm","creatures":["Ancient Black Dragon","Storm Hag","Forest Dragon","Hamadryad","Valkyrie"]}
+{"spell":"ego whip V","creatures":["Manu"]}
+{"spell":"hypnotic pattern","creatures":["Shen","Gancanagh","Bokrug","Scarecrow","Lunar Dragon","Denizen of Leng","Clockwork Dragon","Aboleth","Egregore","Caulborn"]}
+{"spell":"mindscape door","creatures":["Apkallu","Manu","Vishap"]}
+{"spell":"speak with animals","creatures":["Ancient White Dragon","Janni","Androsphinx","Marsh Giant","Brine Dragon","Cernunnos","Cliff Giant","Broken Soul Lillend","Zoog","Cat Lord","Oceanid","Young Bronze Dragon","Amarok","Cerynitis","Rat King","Brass Dragon","Black Dragon","Cervinal","Domovoi","Bhuta","Witchcrow","Bronze Dragon","Seilenos","Jinushigami","Adult White Dragon","Encantado","Elohim","Ratling","Dagon","Mobogo","Erlking","Manitou","Lillend","Abaia","Hamadryad","Adult Brass Dragon","Vouivre","Catrina","Skinwalker","Young Brass Dragon","Atomie","Giant Owl","Ancient Brass Dragon"]}
+{"spell":"mass inflict light wounds","creatures":["Zelekhut"]}
+{"spell":"Water breathing","creatures":["Brine Dragon"]}
+{"spell":"expeditious excavation","creatures":["Annihilator"]}
+{"spell":"discordant blast","creatures":["Hyakume"]}
+{"spell":"frostbite","creatures":["Winter Hag"]}
+{"spell":"Scintillating pattern","creatures":["Fey Giant Toad"]}
+{"spell":"lesser globe of invulnerability","creatures":["Lunar Dragon","Dandasuka"]}
+{"spell":"protection from evil","creatures":["Foo Dog","Intellect Devourer","Griefgall","Exscinder","Brass Dragon","Cervinal","Aasimar","Harbinger Archon","Young Silver Dragon","Lunar Dragon","Maftet","Dagon","Moon Dog","Erlking","Aghash","Young Brass Dragon","Half-Celestial Unicorn"]}
+{"spell":"intellect fortress III","creatures":["Apkallu"]}
+{"spell":"awaken","creatures":["Cassisian"]}
+{"spell":"entangle","creatures":["Zomok","Fungus Leshy","Adult Green Dragon","Dryad","Ancient Blue Dragon","Barometz","Pixie","Swan Maiden","Fungal Nymph","Graven Guardian","Jinushigami","Grig","Nymph","Tunche","Forest Dragon","Augur","Rusalka","Gathlain","Hamadryad","Green Dragon","Assassin Vine","Young Green Dragon","Fey Giant Toad"]}
+{"spell":"awaken construct","creatures":["Manu"]}
+{"spell":"wish","creatures":["Derro","Bokrug","Pleroma","Red Wyrm Ravener","Marid","Shinigami","Wendigo","Solar","Iathavos","Flesh Colossus","Akhana","Leprechaun","Glabrezu","Iku-turso","Dagon","Adamantine Golem","Devourer","Sceaduinar","Gashadokuro","Bythos","Warsworn","Derghodaemon","Aghash","Lemure","Witchfire","Demilich","Norn","Owb","Devilbound Sorcerer","Contract Devil","Soul Eater"]}
+{"spell":"rusting grasp","creatures":["Shaitan","Cernunnos","Pleroma","Flesh Colossus","Mothman","Adamantine Golem","Iron Golem","Hamadryad","Blood Golem"]}
+{"spell":"energy drain","creatures":["Red Wyrm Ravener","Shinigami","Wyrmwraith","Astradaemon"]}
+{"spell":"break enchantment","creatures":["Theletos","Exscinder","Sinspawn","Brine Dragon","Cernunnos","Pleroma","Muse","Planetar","Solar","Iathavos","Hekatonkheires","Young Silver Dragon","Colour Out of Space","Kirin","Lunar Dragon","Dagon","Forest Dragon","Balisse","Drakainia","Aghash","Shadow Collector","Witchfire","Owb","Danava","Titan, Elysian","Contract Devil"]}
+{"spell":"Animate plants","creatures":["Lunar Dragon"]}
+{"spell":"overland flight","creatures":["Bokrug"]}
+{"spell":"synaptic scramble","creatures":["Vishap"]}
+{"spell":"Glitterdust","creatures":["Brine Dragon"]}
+{"spell":"touch of the sea","creatures":["Brine Dragon"]}
+{"spell":"detect psychic significance","creatures":["Astral Dragon"]}
+{"spell":"Command","creatures":["Graven Guardian"]}
+{"spell":"greater spell immunity","creatures":["Exscinder","Hekatonkheires","Balisse"]}
+{"spell":"psychic crush IV","creatures":["Astral Dragon"]}
+{"spell":"symbol of insanity","creatures":["Shining Child","Deep One","Abrikandilu","Bokrug","Dagon"]}
+{"spell":"Holy word","creatures":["Half-Celestial Unicorn"]}
+{"spell":"Freedom of movement","creatures":["Flying Polyp"]}
+{"spell":"summon nature's ally VIII","creatures":["Seilenos","Manitou","Hamadryad"]}
+{"spell":"tsunami","creatures":["Brine Dragon","Tempest Behemoth","Bokrug","Jinushigami","Dagon"]}
+{"spell":"Entangle","creatures":["Graven Guardian","Fey Giant Toad"]}
+{"spell":"touch of fatigue","creatures":["Brine Dragon","Changeling","Red Wyrm Ravener","Penanggalen","Manananggal","LUNAR NAGA","Forest Dragon"]}
+{"spell":"hold portal","creatures":["Divine Guardian Hydra","Soulbound Mannequin","Clockwork Dragon","Blood Golem"]}
+{"spell":"paranoia","creatures":["Tulpa","Caller in Darkness"]}
+{"spell":"Color spray","creatures":["Brine Dragon"]}
+{"spell":"true seeing","creatures":["Shen","Exscinder","Thulgant","Humbaba","Ghaele","Purrodaemon","Shedu","Brine Dragon","Cernunnos","Abrikandilu","Bokrug","Adult Green Dragon","Ice Linnorm","Grim Reaper","Balor","Pleroma","Red Wyrm Ravener","Shinigami","Amarok","Planetar","Gegenees","Marut","Vrolikai","Eclipse Giant","Solar","Revenant","Zelekhut","Axiomite","Iathavos","Hekatonkheires","Adhukait","Anunnaki","Esipil","Apkallu","Crag Linnorm","Seilenos","Thanadaemon","Jinushigami","Tzitzimitl","Crucidaemon","Glabrezu","Vilderavn","Lunar Dragon","Argus","Fire Yai","Nalfeshnee","Bralani","Olethrodaemon","Dagon","Manu","Tunche","Young Gold Dragon","Cairn Linnorm","Ankou","Xacarba","Balisse","Augur","Dandasuka","Manitou","Devourer","Aoandon","Saxra","Gorynych","Erinyes","Catrina","Drakainia","Accuser Devil (Zebub)","Aghash","Jabberwock","Tarn Linnorm","Astradaemon","Shemhazian","Demilich","Marilith","Norn","Thriae Queen","Danava","Devilbound Sorcerer","Titan, Elysian","Giant Owl"]}
+{"spell":"<i>slow</i>","creatures":["Bone Golem"]}
+{"spell":"maze","creatures":["Red Wyrm Ravener","Guardian Dragon","Will-o'-wisp","Devourer","Tikbalang","Minotaur","Norn"]}
+{"spell":"repel metal or stone","creatures":["Cernunnos","Jinushigami","Erlking","Forest Dragon"]}
+{"spell":"flame strike","creatures":["Plague Swarm","Exscinder","Ghaele","Purrodaemon","Shedu","Planetar","Eclipse Giant","Peri","Young Silver Dragon","Fastachee","Adamantine Golem","Dandasuka","Simurgh","Drowning Devil (Sarglagon)","Brijidine","Lemure"]}
+{"spell":"elemental body III","creatures":["Marid","Devilbound Sorcerer"]}
+{"spell":"waves of exhaustion","creatures":["Planetar","Eclipse Giant","Solar","Jinushigami","Lunar Dragon","Forest Dragon","Wyrmwraith","Gristly Demodand","Accuser Devil (Zebub)","Astral Dragon","Hollow Serpent","Witchfire"]}
+{"spell":"daylight","creatures":["Spectre","Juggernaut","Cassisian","Azruverda","Trumpet Archon","Pleroma","Planetar","Solar","Adult Copper Dragon","Aasimar","Shadow Mastiff","Young Gold Dragon","Jyoti","Simurgh","Lurker in Light","Gold Dragon","Thriae Queen"]}
+{"spell":"regenerate","creatures":["Planetar","Vrolikai","Solar","Nabasu","Ecorche","Drakainia","Thriae Queen"]}
+{"spell":"slay living","creatures":["Mummy Lord","Brine Dragon","Grim Reaper","Adhukait","Akhana","Nemhain","Devourer","Sceaduinar"]}
+{"spell":"Contagion ","creatures":["Half-Fiend Minotaur"]}
+{"spell":"prestidigitation","creatures":["Gancanagh","Garuda","Adult Black Dragon","Reptoid","Rakshasa","Brine Dragon","Rokurokubi","Lamia Matriarch","Ahkhat","Worm that Walks","Adult Red Dragon","Adult Green Dragon","Red Wyrm Ravener","Muse","Brass Dragon","Copper Dragon","Domovoi","Young Red Dragon","Liminal Sprite","Young Silver Dragon","Leprechaun","Red Dragon","Lunar Dragon","LUNAR NAGA","Young Copper Dragon","Soulbound Mannequin","Dandasuka","Ifrit","Brownie","Neh-Thalggu","Soulbound Doll","Kitsune","Grimple","Fuath","Kikimora","Silver Dragon","Formian Myrmarch","Mite","Young Brass Dragon","Devilbound Sorcerer","Young Green Dragon"]}
+{"spell":"mirage arcana","creatures":["Shen","Shining Child","Green Hag","Bokrug","Ancient Black Dragon","Scylla","Sargassum Fiend","Seilenos","Leng Spider","Tikbalang","Aboleth","Apostate Devil (Deimavigga)","Young Brass Dragon"]}
+{"spell":"limited wish","creatures":["Brine Dragon","Wood Golem","Adult Red Dragon","Urannag","Living Wall","Crystal Golem","Clockwork Goliath","Bone Golem","Flesh Colossus","Akhana","Guardian Dragon","Vilderavn","Ice Golem","Clockwork Dragon","Forest Dragon","Stone Golem","Blood Golem","Tiberolith","Bythos","Gorynych","Derghodaemon","Astral Dragon","Taotieh","Sphinx Colossus"]}
+{"spell":"greater magic weapon","creatures":["Juggernaut","Graven Guardian","Balisse"]}
+{"spell":"Clashing rocks","creatures":["Forest Dragon"]}
+{"spell":"true form","creatures":["Cernunnos","Eclipse Giant"]}
+{"spell":"create greater undead","creatures":["Mummified Gynosphinx","Totenmaske","Wyrmwraith","Bodak"]}
+{"spell":"shambler","creatures":["Zomok"]}
+{"spell":"light","creatures":["Shining Child","Garuda","Adult Black Dragon","Juggernaut","Brine Dragon","Broken Soul Lillend","Adult Red Dragon","Guardian Naga","Aranea","Samsaran","Changeling","Young Bronze Dragon","Copper Dragon","Young Red Dragon","Young Silver Dragon","Couatl","Bronze Dragon","Dark Naga","Shadow Mastiff","Lunar Dragon","Unicorn","LUNAR NAGA","Nymph","Young Copper Dragon","Young Gold Dragon","Ancient Bronze Dragon","Soulbound Mannequin","Vampire","Dandasuka","Lillend","Soulbound Doll","Ancient Gold Dragon","Lurker in Light","Adult Blue Dragon","Ancient Copper Dragon","Lampad","Silver Dragon","Gold Dragon","Thriae Queen","Half-Celestial Unicorn","Ancient Brass Dragon"]}
+{"spell":"project image","creatures":["Brine Dragon","Worm that Walks","Bokrug","Ancient Black Dragon","Scylla","Mothman","Aboleth","Marilith"]}
+{"spell":"decrepit disguise","creatures":["Koto-furunishi","Vishap"]}
+{"spell":"mage's sword","creatures":["Duppy","Fire Yai"]}
+{"spell":"undetectable alignment","creatures":["Pleroma","Blood Hag","Graeae"]}
+{"spell":"mental barrier V","creatures":["Astral Dragon"]}
+{"spell":"hallucinatory terrain","creatures":["Broken Soul Lillend","Bokrug","Ancient Black Dragon","Ijiraq","Living Mirage","Lillend","Adult Blue Dragon","Aghash"]}
+{"spell":"prismatic spray","creatures":["Shen","Humbaba","Ghaele","Brine Dragon","Sleipnir","Solar","Lunar Dragon","Ankou","Forest Dragon","Simurgh"]}
+{"spell":"Fire shield","creatures":["Brine Dragon"]}
+{"spell":"malicious spite","creatures":["Esipil"]}
+{"spell":"protection from good","creatures":["Mummy Lord","Worm that Walks","Fext","Coloxus","Esipil","Erlking","Forest Dragon","Wyrmwraith","Nightmare Ettercap","Drowning Devil (Sarglagon)"]}
+{"spell":"compel hostility","creatures":["Astral Dragon"]}
+{"spell":"greater ","creatures":["Shadow Roper","Augur"]}
+{"spell":"mass charm monster","creatures":["Planetar","Black Dragon","Solar","Seilenos","Shaggy Demodand","Fire Yai","Lotus Tree","Balisse","Accuser Devil (Zebub)"]}
+{"spell":"piercing shriek","creatures":["Broken Soul Lillend"]}
+{"spell":"slow","creatures":["Desert Drake","Stone Golem","Adult Black Dragon","Clay Golem","Shadow Roper","Ice Devil (Gelugon)","Worm that Walks","Red Wyrm Ravener","Young Bronze Dragon","Flying Polyp","Adult Bronze Dragon","Bronze Dragon","Flesh Golem","Wood Golem","Jinushigami","Lunar Dragon","Nalfeshnee","Quickling","Adamantine Golem","Iron Golem","Hound of Tindalos","Mandragora","Forest Dragon","Viper Vine","Blood Golem","Julunggali","Bythos","Ice Golem","Ceustodaemon","Ghorazagh","Shriezyx","Thriae Queen"]}
+{"spell":"phantom trap","creatures":["Copper Dragon","Young Copper Dragon"]}
+{"spell":"Resurrection","creatures":["Half-Celestial Unicorn"]}
+{"spell":"mindlink","creatures":["Etiainen","Ether Drake","Anunnaki","Apkallu","Vishap"]}
+{"spell":"nondetection","creatures":["Gancanagh","Fungus Leshy","Scylla","Svirfneblin","Adhukait","Esipil","Lunar Dragon","Water Orm","Sea Serpent","Dandasuka","Drowning Devil (Sarglagon)","Aghash","Deep Sea Serpent","Pukwudgie","Caulborn"]}
+{"spell":"mage hand","creatures":["Ancient White Dragon","Young White Dragon","Gancanagh","Garuda","Adult Black Dragon","Contemplative","Rakshasa","Young Blue Dragon","Brine Dragon","Rokurokubi","Lamia Matriarch","Worm that Walks","Adult Red Dragon","Guardian Naga","Aranea","Adult Green Dragon","Samsaran","Red Wyrm Ravener","Etiainen","Brass Dragon","Domovoi","Young Red Dragon","Leprechaun","Esipil","Dark Naga","Grioth","Shabti","Red Dragon","Kirin","Lunar Dragon","Fire Yai","LUNAR NAGA","Tooth Fairy","Young Copper Dragon","Soulbound Mannequin","Forest Dragon","Vampire","Augur","Dandasuka","Neh-Thalggu","Lillend","Soulbound Doll","Faerie Dragon","Soulsliver","Lurker in Light","Adult Blue Dragon","Grimple","Crysmal","Astral Dragon","Wysp","Soulbound Shell","Drider","Apostate Devil (Deimavigga)","Spirit Naga","Young Brass Dragon","Devilbound Sorcerer","Young Green Dragon"]}
+{"spell":"dream scan","creatures":["Lotus Tree","Astral Dragon"]}
+{"spell":"id insinuation II","creatures":["Su"]}
+{"spell":"cloak of chaos","creatures":["Thulgant","Deep One","Pleroma","Iathavos"]}
+{"spell":"chain lightning","creatures":["Ghaele","Purrodaemon","Brine Dragon","Lusca","Red Wyrm Ravener","Zelekhut","Hekatonkheires","Lunar Dragon","Frost Giant","Forest Dragon","Flame Drake","Sard","Danava"]}
+{"spell":"gentle repose","creatures":["Intellect Devourer","Flesh Colossus","Akhana","Necrophidius","Adamantine Golem","Corpse Lotus","Valkyrie"]}
+{"spell":"forcecage","creatures":["Green Hag","Red Wyrm Ravener","Colour Out of Space","Lunar Dragon","Forest Dragon","Augur","Catrina","Aghash"]}
+{"spell":"excruciating deformation","creatures":["Gristly Demodand"]}
+{"spell":"dismissal","creatures":["Ghaele","Shedu","Brine Dragon","Trumpet Archon","Worm that Walks","Young Bronze Dragon","Planetar","Marut","Solar","Lunar Dragon","Forest Dragon","Drowning Devil (Sarglagon)","Contract Devil"]}
+{"spell":"greater command","creatures":["Brine Dragon","Pharaonic Guardian","Zelekhut","Kalavakus"]}
+{"spell":"comprehend languages","creatures":["Ancient White Dragon","Shen","Mummified Gynosphinx","Androsphinx","Pipefox","Samsaran","Apkallu","Lunar Dragon","Sphinx (Gynosphinx)","Dandasuka","Vouivre","Catrina","Aghash","Formian Myrmarch"]}
+{"spell":"lullaby","creatures":["Baku","Lillend"]}
+{"spell":"bleed","creatures":["Dark Slayer","Brine Dragon","Drow Noble","Adult Red Dragon","Lich","Berbalang","Lunar Dragon","Manananggal","Forest Dragon","Augur","Dandasuka","Sceaduinar","Blood Golem","Adult Blue Dragon","Catrina","Dark Caller","Drider","Spirit Naga"]}
+{"spell":"glyph of warding","creatures":["Gancanagh","Exscinder"]}
+{"spell":"shield other","creatures":["Shield Archon","Shedu","Cernunnos","Clay Golem"]}
+{"spell":"giant form I","creatures":["Efreeti","Marid","Fire Yai","Ogre Mage","Dandasuka"]}
+{"spell":"unhallow","creatures":["Brine Dragon","Cacodaemon","Dagon","Half-Fiend Minotaur","Drowning Devil (Sarglagon)"]}
+{"spell":"Mage's disjunction","creatures":["Bokrug"]}
+{"spell":"tongues","creatures":["Green Hag","Bogeyman","Contemplative","Seaweed Siren","Adult Red Dragon","Bokrug","Shoggti","Shinigami","Brass Dragon","Coloxus","Adhukait","Leng Spider","Lunar Dragon","Ratling","Tunche","Young Copper Dragon","Denizen of Leng","Forest Dragon","Dandasuka","Simurgh","Succubus","Leanan Sidhe","Hamadryad","Graeae","Catrina","Isitoq","Faceless Stalker (Ugothol)","Norn","Young Brass Dragon","Witchwyrd","Dybbuk","Contract Devil","Valkyrie"]}
+{"spell":"hideous laughter","creatures":["Muse","Pixie","Cervinal","Copper Dragon","Adult Bronze Dragon","Harionago","Young Copper Dragon","Forest Dragon","Faun","Astral Dragon","Soulbound Shell","Formian Myrmarch"]}
+{"spell":"insect plague","creatures":["Adult Black Dragon","Azruverda","Black Dragon","Immortal Ichor","Derghodaemon","Aghash"]}
+{"spell":"<i>order's wrath</i>","creatures":["Pleroma"]}
+{"spell":"moonstruck","creatures":["Lunar Dragon"]}
+{"spell":"spike growth","creatures":["Adhukait","Fungal Nymph","Fastachee","Guecubu"]}
+{"spell":"Neutralize poison","creatures":["Half-Celestial Unicorn"]}
+{"spell":"trap the soul","creatures":["Dullahan","Akhana","Augur","Devourer","Sceaduinar","Lemure"]}
+{"spell":"Pass without trace","creatures":["Forest Dragon"]}
+{"spell":"Moonstruck","creatures":["Lunar Dragon"]}
+{"spell":"disrupt undead","creatures":["Brine Dragon","Wyvaran","Couatl","LUNAR NAGA","Forest Dragon","Catrina"]}
+{"spell":"repel vermin","creatures":["Azruverda"]}
+{"spell":"summon nature's ally IX","creatures":["Cernunnos","Jinushigami","Erlking","Glaistig"]}
+{"spell":"psychic asylum","creatures":["Apkallu","Manu"]}
+{"spell":"Magic stone","creatures":["Oread"]}
+{"spell":"invisibility purge","creatures":["Trumpet Archon","Planetar","Solar","Cervinal","Apkallu","Invisible Stalker","Young Gold Dragon","Aether Elemental","Balisse","Living Mirage","Spawn of Yog-Sothoth","Aerial Servant","Apostate Devil (Deimavigga)","Thriae Queen"]}
+{"spell":"acid fog","creatures":["Worm that Walks","Omox","Ancient Red Dragon","Shaggy Demodand","Trench Mist","Forest Dragon","Tiberolith","Accuser Devil (Zebub)","Nyogoth","Devilbound Sorcerer"]}
+{"spell":"floating disk","creatures":["Shulsaga","Witchwyrd"]}
+{"spell":"spell immunity","creatures":["Trumpet Archon","Young Gold Dragon","Catrina","Astral Dragon"]}
+{"spell":"symbol of death","creatures":["Bokrug","Vrolikai"]}
+{"spell":"wall of stone","creatures":["Shaitan","Cernunnos","Adult Bronze Dragon","Flesh Colossus","Apkallu","Jinushigami","Young Copper Dragon","Forest Dragon","Pech","Drowning Devil (Sarglagon)","Brijidine"]}
+{"spell":"Gate","creatures":["Lunar Dragon"]}
+{"spell":"spectral hand","creatures":["Dark Slayer","Lich","Devourer","Aghash"]}
+{"spell":"suggestion","creatures":["Theletos","Leucrotta","Lhaksharut","Bogeyman","Serpentfolk","Seugathi","Alraune","Rakshasa","Brine Dragon","Bhole","Drow Noble","Lamia Matriarch","Broken Soul Lillend","Adult Red Dragon","Adult Green Dragon","Dryad","Pleroma","Agyra","Red Wyrm Ravener","Ancient Blue Dragon","Young Bronze Dragon","Brass Dragon","Satyr","Coloxus","Young Red Dragon","Lich","Adult White Dragon","Popobala","Drow","Imp","LUNAR NAGA","Mothman","Young Copper Dragon","Pooka","Carbuncle","Nereid","Forest Dragon","Xacarba","Dandasuka","Succubus","Nightmare Ettercap","Rusalka","Lillend","Soulbound Doll","Hamadryad","Devourer","Neothelid","Ancient Green Dragon","Jorogumo","Aghash","Drider","Formian Myrmarch","Lamia","Young Brass Dragon","Witchwyrd","Young Green Dragon"]}
+{"spell":"dominate animal","creatures":["Sangoi","Brain Ooze"]}
+{"spell":"versatile weapon","creatures":["Harbinger Archon"]}
+{"spell":"teleportation circle","creatures":["Witchcrow"]}
+{"spell":"magic vestment","creatures":["Mummy Lord","Trumpet Archon","Drowning Devil (Sarglagon)"]}
+{"spell":"summon monster II","creatures":["Bokrug"]}
+{"spell":"mass suggestion","creatures":["Shen","Leucrotta","Serpentfolk","Bokrug","Young Bronze Dragon","Hekatonkheires","Esipil","Seilenos","Dagon","Lotus Tree","Forest Dragon","Xacarba","Dandasuka","Accuser Devil (Zebub)","Danava","Titan, Elysian"]}
+{"spell":"chameleon stride","creatures":["Mngwa"]}
+{"spell":"repress memory","creatures":["Exscinder","Astral Dragon"]}
+{"spell":"Cup of dust","creatures":["Lunar Dragon"]}
+{"spell":"suffocation","creatures":["Aoandon"]}
+{"spell":"corruption resistance","creatures":["Cernunnos"]}
+{"spell":"mark of justice","creatures":["Lhaksharut","Cernunnos","Zelekhut","Apkallu","Balisse","Arbiter"]}
+{"spell":"Speak with animals","creatures":["Brine Dragon"]}
+{"spell":"spell turning","creatures":["Shining Child","Deep One","Adult Red Dragon","Red Wyrm Ravener","Young Bronze Dragon","Adult Gold Dragon","Hekatonkheires","Guardian Dragon","Popobala","Lunar Dragon","Adamantine Golem","Dandasuka","Flail Snail","Thriae Queen","Lipika","Titan, Elysian"]}
+{"spell":"permanency","creatures":["Solar"]}
+{"spell":"charm person","creatures":["Ancient White Dragon","Rakshasa","Brine Dragon","Rokurokubi","Broken Soul Lillend","Worm that Walks","Aranea","Adult Green Dragon","Shoggti","Dryad","Ancient Blue Dragon","Brass Dragon","Satyr","Coloxus","Undine","Berbalang","Penanggalen","Lunar Dragon","Fire Yai","Bralani","Huldra","LUNAR NAGA","Carbuncle","Forest Dragon","Dandasuka","Lillend","Leanan Sidhe","Hamadryad","Vouivre","Kitsune","Gorynych","Nixie","Siren","Immortal Ichor","Jorogumo","Aghash","Soulbound Shell","Qallupilluk","Formian Myrmarch","Spirit Naga","Young Brass Dragon","Devilbound Sorcerer","Young Green Dragon"]}
+{"spell":"beast shape IV","creatures":["Doppeldrek","Kelpie","Soulbound Shell"]}
+{"spell":"vampiric touch","creatures":["Lhaksharut","Brine Dragon","Red Wyrm Ravener","Vrolikai","Peuchen","Lich","Harionago","Nabasu","Vampire","Dandasuka","Succubus","Devourer","Adult Blue Dragon","Maenad","Astradaemon","Caulborn"]}
+{"spell":"vermin shape I","creatures":["Jorogumo"]}
+{"spell":"bestow grace of the champion","creatures":["Balisse"]}
+{"spell":"create pit","creatures":["Ramidreju"]}
+{"spell":"arcane mark","creatures":["Gancanagh","Young Blue Dragon","Brine Dragon","Rokurokubi","Adult Red Dragon","Red Wyrm Ravener","Brass Dragon","Young Red Dragon","Kirin","Lunar Dragon","Dandasuka","Adult Blue Dragon","Astral Dragon","Young Brass Dragon","Devilbound Sorcerer"]}
+{"spell":"mind thrust VI","creatures":["Manu","Lotus Tree"]}
+{"spell":"sympathy","creatures":["Dagon"]}
+{"spell":"psychic crush I","creatures":["Manu","Astral Dragon"]}
+{"spell":"legend lore","creatures":["Mummified Gynosphinx","Androsphinx","Pleroma","Lunar Dragon","Sphinx (Gynosphinx)","Forest Dragon"]}
+{"spell":"mass hold person","creatures":["Nabasu","Forest Dragon"]}
+{"spell":"summon nature's ally VI","creatures":["Erlking","Rusalka"]}
+{"spell":"Gentle repose","creatures":["Adamantine Golem"]}
+{"spell":"water breathing","creatures":["Fungus Leshy","Green Hag","Brine Dragon","Cliff Giant","Oceanid","Marid","Fire Yai","Nymph","Makara Vahana","Blood Golem","Drowning Devil (Sarglagon)","Julunggali","Nixie","Vodyanoi","Aghash","Qallupilluk","Devilbound Sorcerer"]}
+{"spell":"song of discord","creatures":["Vouivre"]}
+{"spell":"repulsion","creatures":["Pleroma","Flesh Colossus","Young Silver Dragon","Adult Brass Dragon","Formian Myrmarch"]}
+{"spell":"shapechange","creatures":["Cernunnos","Cat Lord","Elohim","Dagon","Dandasuka"]}
+{"spell":"Darkness","creatures":["Brine Dragon","Graven Guardian","Half-Fiend Minotaur"]}
+{"spell":"monstrous physique IV","creatures":["Doppeldrek"]}
+{"spell":"inflict serious wounds","creatures":["Intellect Devourer","Taniniver","Brine Dragon","Akhana","Soulbound Doll","Devourer","Sceaduinar","Dybbuk"]}
+{"spell":"erase","creatures":["Brine Dragon","Bokrug","Lunar Dragon","Maftet","Contract Devil"]}
+{"spell":"greater possession","creatures":["Vishap"]}
+{"spell":"<i>waves of exhaustion</i>","creatures":["Augnagar"]}
+{"spell":"cloak of winds","creatures":["Brine Dragon"]}
+{"spell":"Feeblemind","creatures":["Fey Giant Toad"]}
+{"spell":"Confusion","creatures":["Bhole","Graven Guardian","Fey Giant Toad"]}
+{"spell":"read magic","creatures":["Mummified Gynosphinx","Gancanagh","Adult Black Dragon","Contemplative","Mummy Lord","Young Blue Dragon","Brine Dragon","Rokurokubi","Drow Noble","Wayang","Cernunnos","Broken Soul Lillend","Worm that Walks","Adult Red Dragon","Guardian Naga","Pleroma","Red Wyrm Ravener","Young Black Dragon","Copper Dragon","Young Red Dragon","Young Silver Dragon","Lich","Couatl","Apkallu","Dark Naga","Red Dragon","Penanggalen","Lunar Dragon","LUNAR NAGA","Ratling","Young Copper Dragon","Sphinx (Gynosphinx)","Forest Dragon","Vampire","Dandasuka","Neh-Thalggu","Lillend","Kitsune","Ancient Gold Dragon","Adult Blue Dragon","Catrina","Hag Eye Ooze","Astral Dragon","Isitoq","Silver Dragon","Soulbound Shell","Drider","Spirit Naga","Devilbound Sorcerer","Caulborn"]}
+{"spell":"prying eyes","creatures":["Shemhazian","Young Brass Dragon"]}
+{"spell":"wall of fire","creatures":["Phoenix","Brine Dragon","Adult Red Dragon","Efreeti","Red Wyrm Ravener","Flesh Colossus","Peri","Fire Yai","Olethrodaemon","WickerMan","Drowning Devil (Sarglagon)","Ancient Green Dragon","Accuser Devil (Zebub)","Brijidine","Aghash","Lemure"]}
+{"spell":"summon monster V","creatures":["Bokrug","Adult Green Dragon","Hydrodaemon","Devilbound Sorcerer"]}
+{"spell":"acid pit","creatures":["Brine Dragon"]}
+{"spell":"shield of law","creatures":["Pleroma","Marut","Apkallu"]}
+{"spell":"shadowbard","creatures":["Muse"]}
+{"spell":"ray of enfeeblement","creatures":["Brine Dragon","Night Hag","Red Wyrm Ravener","Lich","Dark Naga","Harionago","Lunar Dragon","Shaggy Demodand","LUNAR NAGA","Clockwork Dragon","Forest Dragon","Urdefhan","Dandasuka","Neh-Thalggu","Devourer","Drider","Witchfire","Pukwudgie"]}
+{"spell":"false life","creatures":["Red Wyrm Ravener","Lich","Soulbound Mannequin","Adamantine Golem","Vampire","Guardian Scroll","Soulbound Doll","Blood Golem","Adult Blue Dragon","Astral Dragon","Tanuki","Soulbound Shell","Devilbound Sorcerer"]}
+{"spell":"pain strike","creatures":["Cernunnos","Gristly Demodand","Astral Dragon","Kikimora"]}
+{"spell":"mnemonic enhancer","creatures":["Clockwork Dragon","Soulbound Shell"]}
+{"spell":"death knell","creatures":["Dark Slayer","Drow Noble","Lamia Matriarch","Abrikandilu","Fext","Adhukait","Crucidaemon","Vilderavn","Urdefhan","Dandasuka","Devourer","Sceaduinar","Grimslake","Pukwudgie"]}
+{"spell":"animate objects","creatures":["Animated Object","Flesh Golem","Clockwork Goliath","Solar","Bone Golem","Popobala","Terra-cotta Soldier","Adamantine Golem","Clockwork Dragon","Cephalophore","Koto-furunishi","Blood Golem","Warsworn","Dybbuk"]}
+{"spell":"Major image","creatures":["Fey Giant Toad"]}
+{"spell":"calm emotions","creatures":["Androsphinx","Alraune","Cernunnos","Young Silver Dragon","Forest Dragon","Simurgh","Paracletus","Leanan Sidhe","Ostiarius","Catrina","Maenad","Cerebric Fungus","Thriae Queen"]}
+{"spell":"perceive cues","creatures":["Witchcrow"]}
+{"spell":"shades","creatures":["Brine Dragon","Augur"]}
+{"spell":"zone of truth","creatures":["Exscinder","Pleroma","Apkallu","Simurgh","Astral Dragon"]}
+{"spell":"divination","creatures":["Janni","Pipefox","Hyakume","Cernunnos","Comozant Wyrd","Young Gold Dragon","Graeae","Catrina","Qallupilluk","Norn","Thriae Queen","Titan, Elysian"]}
+{"spell":"elemental body II","creatures":["Nereid","Devilbound Sorcerer"]}
+{"spell":"hydraulic torrent","creatures":["Juggernaut","Ningen","Abaia","Fossegrim","Drowning Devil (Sarglagon)"]}
+{"spell":"polar midnight","creatures":["Eclipse Giant","Lunar Dragon","Dagon"]}
+{"spell":"Cloudkill","creatures":["Brine Dragon"]}
+{"spell":"searing light","creatures":["Exscinder","Androsphinx","Ghaele","Cernunnos","Turul","Lammasu","Lunar Dragon","Jyoti","Catrina"]}
+{"spell":"Dispel evil","creatures":["Half-Celestial Unicorn"]}
+{"spell":"Interplanetary teleport","creatures":["Lunar Dragon"]}
+{"spell":"detect magic","creatures":["Ancient White Dragon","Young White Dragon","Intellect Devourer","Janni","Mummified Gynosphinx","Gancanagh","Androsphinx","Garuda","Adult Black Dragon","Dark Slayer","Ghaele","White Dragon","Phoenix","Contemplative","Gearghost","Reptoid","Piscodaemon","Mummy Lord","Rakshasa","Young Blue Dragon","Brine Dragon","Rokurokubi","Drow Noble","Wayang","Lamia Matriarch","Trumpet Archon","Broken Soul Lillend","Turul","Worm that Walks","Adult Red Dragon","Guardian Naga","Lammasu","Aranea","Night Hag","Adult Green Dragon","Zoog","Efreeti","Cythnigot","Pleroma","Blood Hag","Hydrodaemon","Red Wyrm Ravener","Marid","Young Bronze Dragon","Muse","Planetar","Marut","Brass Dragon","Eclipse Giant","Solar","Young Black Dragon","Aasimar","Copper Dragon","Young Red Dragon","Adhukait","Dark Stalker","Guardian Dragon","Fungal Nymph","Young Silver Dragon","Fastachee","Lich","Witchcrow","Esipil","Bronze Dragon","Apkallu","Cacodaemon","Dark Naga","Crucidaemon","Grioth","Shabti","Winter Hag","Red Dragon","Kirin","Penanggalen","Lunar Dragon","Shaggy Demodand","Drow","Firbolg","Fire Yai","Quasit","Clockwork Familiar","Imp","LUNAR NAGA","Ratling","Nymph","Young Copper Dragon","Caryatid Column","Pooka","Young Gold Dragon","Ancient Bronze Dragon","Sphinx (Gynosphinx)","Meladaemon","Forest Dragon","Vampire","Balisse","Wakandagi","Dandasuka","Simurgh","Ifrit","Neh-Thalggu","Lillend","Kitsune","Ancient Gold Dragon","Drowning Devil (Sarglagon)","Adult Blue Dragon","Catrina","Gristly Demodand","Ancient Copper Dragon","Ancient Green Dragon","Derghodaemon","Crysmal","Dark Creeper","Disenchanter","Hag Eye Ooze","Astral Dragon","Lampad","Isitoq","Aghash","Silver Dragon","Soulbound Shell","Ceustodaemon","Dark Caller","Drider","Formian Myrmarch","Gold Dragon","Spirit Naga","Pukwudgie","Witchwyrd","Devilbound Sorcerer","Caulborn","Young Green Dragon","Ancient Brass Dragon"]}
+{"spell":"Mislead","creatures":["Fey Giant Toad"]}
+{"spell":"greater restoration","creatures":["Phoenix","Planetar","Solar","Jinushigami","Balisse","Augur","Yithian","Bythos","Catrina"]}
+{"spell":"call spirit","creatures":["Grim Reaper","Saxra"]}
+{"spell":"stormbolts","creatures":["Forest Dragon"]}
+{"spell":"clone","creatures":["Soul Eater"]}
+{"spell":"ill omen","creatures":["Graeae"]}
+{"spell":"blur","creatures":["Adult Black Dragon","Serpentfolk","Brine Dragon","Yuki-Onna","Young Bronze Dragon","Svirfneblin","Adhukait","Bronze Dragon","Crucidaemon","Lunar Dragon","Bralani","Mothman","Erlking","Shae","Clockwork Dragon","Cloaker","Rusalka","Mephit","Owb"]}
+{"spell":"solid note","creatures":["Muse"]}
+{"spell":"cloak of dreams","creatures":["Seilenos","Astral Dragon"]}
+{"spell":"Destruction","creatures":["Graveknight","Half-Fiend Minotaur","Destrachan"]}
+{"spell":"shadow evocation","creatures":["Shen","Worm that Walks","Coloxus","Shae","Nightmare Ettercap","Shadow Collector","Shadow Demon"]}
+{"spell":"persistent image","creatures":["Shen","Ice Devil (Gelugon)","Marid","Horned Devil (Cornugon)","Seilenos","Forest Dragon","Djinni","Adult Blue Dragon","Accuser Devil (Zebub)","Aboleth","Lemure"]}
+{"spell":"phantasmal killer","creatures":["Bogeyman","Seugathi","Brine Dragon","Worm that Walks","Animate Dream","Mothman","Astral Dragon","Death Coach","Norn"]}
+{"spell":"aura sight","creatures":["Astral Dragon"]}
+{"spell":"summon nature's ally I","creatures":["Fungus Leshy"]}
+{"spell":"detect poison","creatures":["Gancanagh","Garuda","Phoenix","Brine Dragon","Rokurokubi","Drow Noble","Cernunnos","Cliff Giant","Lammasu","Apkallu","Lunar Dragon","Werebear (Human Form)","Soulbound Mannequin","Astral Dragon","Lampad","Tanuki","Ghoran"]}
+{"spell":"spike stones","creatures":["Gug","Fastachee","Forest Dragon","Guecubu","Brijidine"]}
+{"spell":"black tentacles","creatures":["Adult Black Dragon","Deep One","Worm that Walks","Scylla","Iathavos","Erlking","Forest Dragon","Augur","Accuser Devil (Zebub)","Soulbound Shell","Apostate Devil (Deimavigga)","Devilbound Sorcerer"]}
+{"spell":"telekinetic charge","creatures":["Astral Dragon"]}
+{"spell":"hide from animals","creatures":["Domovoi","Jinushigami","Sangoi"]}
+{"spell":"waves of ecstasy","creatures":["Seilenos","Balisse"]}
+{"spell":"cat's grace","creatures":["Cat Lord","Fastachee","Dark Naga","Lunar Dragon","Maftet","Terra-cotta Soldier","Necrophidius","Spirit Naga"]}
+{"spell":"litany of warding","creatures":["Cernunnos"]}
+{"spell":"Mass charm monster","creatures":["Half-Celestial Unicorn"]}
+{"spell":"resist energy","creatures":["Young White Dragon","Androsphinx","Young Blue Dragon","Cernunnos","Adult Red Dragon","Lammasu","Air Veela","Thought Eater","Solar","Iron Golem","Young Red Dragon","Fungal Nymph","Lunar Dragon","Kraken","Nymph","Young Gold Dragon","Adamantine Golem","Clockwork Dragon","Forest Dragon","Balisse","Dandasuka","Adult Blue Dragon","Gold Dragon","Young Brass Dragon","Witchwyrd"]}
+{"spell":"sands of time","creatures":["Mummy Lord"]}
+{"spell":"thought shield V","creatures":["Apkallu"]}
+{"spell":"<i>true seeing</i>","creatures":["Augnagar"]}
+{"spell":"cup of dust","creatures":["Lunar Dragon"]}
+{"spell":"overwhelming grief","creatures":["Griefgall"]}
+{"spell":"telekinetic projectile","creatures":["Astomoi","Astral Dragon"]}
+{"spell":"force punch","creatures":["Svartalfar"]}
+{"spell":"transmute rock to mud","creatures":["Zomok","Stone Golem","Gug","Cernunnos","Bokrug","Bone Golem","Adult Bronze Dragon","Fire Giant","Young Copper Dragon","Caryatid Column","Forest Dragon","Guecubu","Aghash"]}
+{"spell":"aura of doom","creatures":["Death Coach"]}
+{"spell":"resistance","creatures":["Adult Black Dragon","Young Blue Dragon","Brine Dragon","Drow Noble","Broken Soul Lillend","Lammasu","Aranea","Samsaran","Young Bronze Dragon","Fungal Nymph","Young Silver Dragon","Couatl","Bronze Dragon","Lunar Dragon","Forest Dragon","Adult Blue Dragon","Drider","Ancient Brass Dragon"]}
+{"spell":"circle of death","creatures":["Bone Ship","Zelekhut","Flesh Colossus","Adhukait","Lich","Elohim","Vilderavn","Ankou","Catrina"]}
+{"spell":"Clairaudience/clairvoyance","creatures":["Lunar Dragon"]}
+{"spell":"binding","creatures":["Thulgant","Deep One","Bokrug","Dagon","Augur","Ceustodaemon"]}
+{"spell":"object reading","creatures":["Cervinal"]}
+{"spell":"dispel chaos","creatures":["Bokrug","Pleroma","Axiomite","Horned Devil (Cornugon)","Succubus","Drowning Devil (Sarglagon)"]}
+{"spell":"implosion","creatures":["Bokrug","Balor","Pleroma","Fire Yai"]}
+{"spell":"permanent image","creatures":["Rokurokubi","Efreeti","Marid","Pixie","Astral Dragon","Formian Myrmarch"]}
+{"spell":"symbol of sleep","creatures":["Mummified Gynosphinx","Gancanagh","Solar","Sphinx (Gynosphinx)","Thriae Queen"]}
+{"spell":"analyze aura","creatures":["Grim Reaper","Manu","Vishap","Astral Dragon","Lipika"]}
+{"spell":"passwall","creatures":["Ahkhat","Spring-Heeled Jack","Lunar Dragon","Forest Dragon","Soulbound Shell"]}
+{"spell":"symbol of pain","creatures":["Mummified Gynosphinx","Gancanagh","Taniniver","Bokrug","Crucidaemon","Sphinx (Gynosphinx)","Xacarba","Augur","Contract Devil"]}
+{"spell":"web","creatures":["Brine Dragon","Red Wyrm Ravener","Young Bronze Dragon","Young Silver Dragon","Clockwork Dragon","Vampire","Silver Dragon","Drider","Devilbound Sorcerer"]}
+{"spell":"freezing sphere","creatures":["Bisha ga tsuku","Ningen","Crone queen","Forest Dragon"]}
+{"spell":"clashing rocks","creatures":["Glaistig"]}
+{"spell":"discern lies","creatures":["Exscinder","Lhaksharut","Cassisian","Amarok","Planetar","Solar","Cervinal","Revenant","Astral Deva","Balisse","Drowning Devil (Sarglagon)"]}
+{"spell":"telekinetic maneuver","creatures":["Astral Dragon"]}
+{"spell":"remove sickness","creatures":["Balisse"]}
+{"spell":"frigid touch","creatures":["Svartalfar"]}
+{"spell":"distracting cacophony","creatures":["Death Coach"]}
+{"spell":"quench","creatures":["Zomok","Marsh Giant","Marid","Mobogo","Wikkawak","Aghash"]}
+{"spell":"earthquake","creatures":["Humbaba","Clay Golem","Shaitan","Tempest Behemoth","Vemerak","Planetar","Solar","Zelekhut","Jinushigami","Forest Dragon","Manitou","Brijidine"]}
+{"spell":"stone shape","creatures":["Juggernaut","Shaitan","Korred","Cliff Giant","Pleroma","Bone Golem","Copper Dragon","Adult Bronze Dragon","Graven Guardian","Ancient Red Dragon","Jinushigami","Elohim","Lunar Dragon","Fire Giant","Young Copper Dragon","Forest Dragon","Balisse","Pech","Tiberolith","Guecubu","Brijidine","Lampad","Aghash","Annihilator"]}
+{"spell":"magic circle against law","creatures":["Pleroma"]}
+{"spell":"calm animals","creatures":["Cernunnos"]}
+{"spell":"psychic reading","creatures":["Apkallu","Vishap"]}
+{"spell":"Cure serious wounds","creatures":["Half-Celestial Unicorn"]}
