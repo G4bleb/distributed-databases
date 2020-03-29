@@ -6,8 +6,8 @@
 # awk -F' ' '{print $NF}' links_3 > links_4
 # sort -V links_4 > links
 
-sed 's/SDB_SpellBlock.asp?SDBID=/http:\/\/www.dxcontent.com\/SDB_SpellBlock.asp?SDBID=/g' links_untreated | 
+sed 's/SDB_SpellBlock.asp?SDBID=/http:\/\/www.dxcontent.com\/SDB_SpellBlock.asp?SDBID=/g' links_untreated.txt | 
 sed -r -e 's/href="([^"]+)"/\1\n/g' |
 sed '/http/!d' |
 awk -F' ' '{print $NF}' |
-sort -V > links
+sort -V > links.txt
