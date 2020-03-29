@@ -51,7 +51,7 @@ class DXSpider(scrapy.Spider):
             caster, level = detail.split(' ')
             spell['level'][caster] = int(level)
 
-        details = parseDetails(spell['components'])
+        details = parseComponents(spell['components'])
         spell['components'] = []
         for detail in details:
             # component = detail.split(' ')[0]
@@ -78,3 +78,9 @@ def parseDetails(desc):
     details = [d.strip() for d in details]
     # details = [d.replace(';', '') for d in details]
     return details
+
+def parseComponents(desc):
+    material = re.match(r"\(.+\)", desc).group(0)
+    material_withoutcommas = material.replace('a', '')
+    desc = desc.replace(material, material_withoutcommas)
+    return parseDetails(desc)
