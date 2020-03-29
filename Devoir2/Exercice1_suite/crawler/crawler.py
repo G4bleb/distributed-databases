@@ -80,7 +80,9 @@ def parseDetails(desc):
     return details
 
 def parseComponents(desc):
-    material = re.match(r"\(.+\)", desc).group(0)
-    material_withoutcommas = material.replace('a', '')
-    desc = desc.replace(material, material_withoutcommas)
+    material = re.match(r"\(.+\)", desc)
+    if material is not None:
+        material = material.group(0)
+        material_withoutcommas = material.replace('a', '')
+        desc = desc.replace(material, material_withoutcommas)
     return parseDetails(desc)
