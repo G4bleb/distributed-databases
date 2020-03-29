@@ -138,7 +138,7 @@ def parseContent(response):
     # print(details)
     return titles, details
     
-#Prend une string de détails de niveaux d'un sort, renvoie un tableau associatif classe => niveau
+#Separates values by commas, also trims them
 def parseDescription(desc):
     # content_pattern = re.compile('>[^><]+<')
     # details = content_pattern.findall(desc)
