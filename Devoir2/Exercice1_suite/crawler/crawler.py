@@ -62,7 +62,7 @@ class DXSpider(scrapy.Spider):
         except KeyError:
             spell['spell_resistance'] = False
 
-        DESCRIPTION_SELECTOR = '.SPDesc ::text'
+        DESCRIPTION_SELECTOR = '.SPDesc'
         spell['description'] = response.css(DESCRIPTION_SELECTOR).get()
 
         # print(spell)
