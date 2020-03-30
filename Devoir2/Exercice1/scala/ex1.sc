@@ -14,15 +14,11 @@ val path = "/home/gableb/bddreparties/Devoir2/Exercice1/crawler/scala_readable.j
 val myDataFrame = spark.read.json(path)
 myDataFrame.printSchema()
 
-//case class Creature(val name:String, val spells: Array[String])
-//case class Spell(val name:String, var creatures: Array[String])
-
 myDataFrame.show()
 
 val myCreatureArray = myDataFrame.distinct()
   .collect()
   .map{ row:Row =>
-//      (row.getAs[String]("name"), Creature(row.getAs[String]("name"), row.getAs[mutable.WrappedArray[String]]("spells").array))
       (row.getAs[String]("name"), row.getAs[mutable.WrappedArray[String]]("spells").array)
   }
 
