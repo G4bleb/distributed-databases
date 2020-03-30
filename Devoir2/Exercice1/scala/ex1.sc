@@ -16,11 +16,6 @@ myDataFrame.printSchema()
 
 myDataFrame.show()
 
-val myCreatureArray = myDataFrame.distinct()
-  .collect()
-  .map{ row:Row =>
-      (row.getAs[String]("name"), row.getAs[mutable.WrappedArray[String]]("spells").array)
-  }
 
 var creatures = sc.parallelize(myCreatureArray)
 
@@ -28,14 +23,14 @@ creatures.take(5).foreach(println)
 
 var mapped = creatures.flatMap(elem => {
     val results = new ArrayBuffer[(String, Array[String])]
-    for (spellname <- elem._2) {
-        results += Tuple2(spellname, Array(elem._1))
+    for (spellname <- elem._2) { // Pour chaque sort d'une créature
+        results += Tuple2(spellname, Array(elem._1)) // Emit (nomdusort, [nomdelacréature])
     }
     results
 })
 
 var reduced = mapped.reduceByKey((a, b) => {
-    a ++ b
+    a ++ b //Concaténer les tableaux de noms
 })
 
 def printSpellCreatures(spell: (String, Array[String])): Unit ={
