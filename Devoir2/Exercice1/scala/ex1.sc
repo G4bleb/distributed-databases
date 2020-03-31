@@ -16,6 +16,11 @@ myDataFrame.printSchema()
 
 myDataFrame.show()
 
+val myCreatureArray = myDataFrame.distinct()
+  .collect()
+  .map{ row:Row =>
+      (row.getAs[String]("name"), row.getAs[mutable.WrappedArray[String]]("spells").array)
+  }
 
 var creatures = sc.parallelize(myCreatureArray)
 
